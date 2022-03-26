@@ -1,0 +1,3432 @@
+D
+Which basic activity in Interaction Design is the process of determining the usability and acceptability of a product or a design?
+A. Identifying needs and establishing requirements( activity in Interaction Design is fundamental to a user - centered approach)
+
+B. Developing alternative designs ( activity in Interaction Design can be broken up into 2 sub-activities: Conceptual design and Physical design)
+
+C. Building interactive versions of the designs ( activity in Interaction Design creates interactive versions of the design to be built)
+
+D. Evaluating designs
+
+(addition:
+- Evaluating designs: is the process of determining the usability and acceptability of the product or design that is measured in terms of a variety of criteria including the number of errors users make using it, how appealing it is, how well it matches the requirements, and so on.
+)
+
+A
+Useful feedback in response to?
+A. User input
+B. How to create new algorithm
+C. How to create quality user experiences
+D. How to follow process of software engineering
+
+. Transparency involves including:
+useful feedback in response to user input;
+and easy-to-understand and intuitive ways of interacting with the system.?
+
+a
+In ethical aspect of evaluation, the participants do not have the right to
+A. Use the result of the study
+B. Know what will happen to the findings
+C. Know the goals of the study
+D. Privacy of personal information
+
+b
+Which of the following is Usability testing
+A. Must be replicable
+B. Procedure planned
+C. Scientific reported to scientific community
+D. Results validated statistically
+(addition:
+- Must be replicable: Discover knowledge,Many participants,Must be replicable(Experiments for research)
+- Procedure planned: Results reported to developers
+- Scientific reported to scientific community: Experimental design: (Experiments for research)
+-Results validated statistically: Strongly controlled conditions (Experiments for research)
+)
+
+Chưa học (395)
+Bạn chưa học các thuật ngữ này!	
+Chọn 395
+C
+Which of following is FALSE:
+A. Prototypes can be used in design to explore ideas (p 576)
+B. Scenarios are used for expressing proposed or imagined situations to help in conceptual design (p554)
+C. Prototype are used for expressing proposed or imagined situations to help in conceptual design
+D. Scenarios can be used in design to explore ideas (p 576)
+(def: simulations & prototypes are observed,recorded and analysed is found in user-centered quantitative analysis)
+
+B
+How many cognitive fameworks:
+A.3
+B.5 (trong sách ghi 6 )
+
+Nếu k có 6 thì khoanh 5
+
+(addition:
+6 cognitive fameworks:
+1. Mental models
+2. Gulfs of execution and evaluation
+3. Information processing. External
+4. Distributed cognition
+5. External cognition
+6. Embodied interaction.)
+
+B
+FATAL, ERROR , INVALID are the guideline for designing good error message ?
+A. True
+B. False
+
+(addition: trong sách
+Main guidelines on how to design good error messages:
+Avoid using terms like FATAL, ERROR, INVALID, BAD, and ILLEGAL
+
+Avoid long code numbers and uppercase letters.
+Audio warnings should be under the user's control, since they can cause much embarrassment
+)
+
+D
+Memorability refers to
+A. how good a product is at doing what it is supposed to do. (Effectiveness)
+B. the way the product supports users in carrying out their tasks. (Efficiency)
+C. how easy a system is to learn to use. (learning)
+D. how easy a product is to remember how to use, once learned.
+
+(def:
+-Memorability is kinds of interface support have been provide to help users remember how to carry out tasks, especially for products and operations they use infrequently
+-goals that usability broken down
+-how easy a product is to remember how to use, once learned.)
+
+b
+Attention, perception and recognition are parts of?
+A. Design principles
+B. Cognition
+C. Process
+D. None of above
+(def:
+- Design principles are used by interaction designers to aid their thinking when designing for the user experience.
+These are generalizable abstractions intended to orient designers towards thinking about different aspects of their
+designs
+- Cognition comprises many processes, including thinking, attention, learning, memory, perception, decision making, planning, reading, speaking, and listening. )
+
+C
+Which provide another way of framing and informing design and research?
+A Usability and user experience
+B Developer experience
+C Theories , models , frameworks
+D Learning many algorithms
+
+(-addition:
++ identifying usability and user experience: goals is a prerequisite to understanding the problem space
++ Developer experience: not found
++ theories:Qualitative data may be framed by theories
++ models: Models are typically abstracted from a theory coming from a contributing discipline, like psychology that can be directly applied to interaction design
++ frameworks: Helping designer constrain and scope the user experience of which they are desinging)
+
+A
+When working with the DECIDE framework, it is common to:
+A. Moving backwards and forwards between items
+B. None of the others
+C. Moving backwards between items
+D. Moving forwards between items
+( def: trong sach
+- when working with the DECIDE framework, it is common to think about and deal with items iteratively, moving backwards and forwards between them after taking the first pass through each one)
+
+a
+"What kinds of interface support have been provide to help users remember how to carry out tasks. especially for products and operations they use infrequently?". Which usability goal is this question for?
+A. Memorability
+B. Learnability
+C. Utility
+D. Effectiveness
+(addition: trong sach
++ Memorability refers to how easy a product is to remember how to use, once learned. This is especially important for interactive products that are used infrequently
++ Learnability: refers to how easy a system is to learn to use. It is well known that people don't like spending a long time learning how to use a system.
++ Utility refers to the extent to which the product provides the right kind of functionality so that users can do what they need or want to do.
++ Effectiveness is a very general goal and refers to how good a product is at doing what it is supposed to do)
+
+A
+A disadvantage of conversing type is?
+A The potential misunderstandings
+B Difficult to understand
+C Hard to implement
+D None of the others
+(search in file docx:
+A disadvantage of this approach is the potential misunderstandings that can arise when the system is unable to answer the user's question in the way the user expects. This tends to happen when more complex questions are asked that cannot rely on single keyword matching.)
+
+B
+A scenario is an "formal narrative descriptions"
+A. True
+B. False
+(def:
+A scenario is an 'informal narrative description' (Carroll, 2000). It describes human activities or tasks in a story that allows exploration and discussion of contexts, needs, and requirements.
+
+NOTE: B
+Which of the following is Experiments for research
+A Conditions controlled as much as possible
+B Results validated statistically
+C Improve products
+D Usually not completely replicable
+(note: search ben hci 1k7 cau la b:
+Results validated statistically,Strongly controlled conditions)
+
+D
+What is not the questions in order to determine the goals
+A None of the others
+B What are the high-level goals of the evaluation?
+C Who wants it and why?
+D When we do it?
+
+C
+One of similar ways of becoming aware and keeping aware take place in other contexts?
+A. Hospital
+B. Hostal
+C. School
+D. None of above
+
+b
+What is the most popular expanding menu
+A. Flat menu
+B. Cascade menu
+C. Contextual menu
+D. None of the others
+
+(
+- flat menu: Expanding menus enable more options to be shown on a single screen than is possible with a single flat menu list.
+- cascade menu: The most common type of expanding menu used as part of the PC interface is the cascading one
+- Contextual menus: provide access to often-used commands associated with a particular item, e.g. an icon)
+
+A
+Decision about conceptual design should be made ... commencing any physical design?
+A. Before
+B. After
+C. Parallel to
+D. None of above
+
+b
+Usability testing is._?
+A. Something allows stakeholders to gain experience of using product
+B Measuring typical users' performance on typical tasks
+C Theories
+D. Statement that specify users need
+(trong sach:
+Evaluations usually involve observing participants and measuring their performance - in usability testing, experiments, or field studies.)
+
+C
+Which is wrong Expectation management is
+A Timely training
+B Communication. but no hype
+C Have surprises. have disappointments
+D Realistic expectations
+(def:The purpose of expectation management is to ensure that there are NO SUPRISE for users when the product arrives.)
+
+NOTE B
+Triangulation in data gathering is only one method for data recording, such as: notes, audios, videos.
+A. True
+B. False
+
+( addition trong sach:
+Triangulation is a term used to refer to the investigation of a phenomenon from (at least) two different perspectives (Jupp, 2006). Four types of triangulation have been defined:
+1. Triangulation of data means that data is drawn from different sources at different times, in different places, or fromdifferent people (possibly by using a different sampling technique).
+2. Investigator triangulation means that different researchers (observers, interviewers, etc.) have been used to collect and interpret the data.
+3. Triangulation of theories means the use of different theoretical frameworks through which to view the data or findings.
+4. Methodological triangulation means to employ different data gathering techniques)
+
+a
+ACM stands for ?
+A. The Association for Computing Machinery
+B. The Association for Controlling Machinery
+C. The Association for Computing Model
+D. The Association for Computing Memory
+
+a
+What is PIM?
+A. Personal information management
+B. A kind of security password
+C. A guideline for software engineering
+D. None of above
+
+d
+What's the field of usability engineering lifecycle?
+A Human Computer Interaction
+B Software Engineering
+C Software Interface Designing
+D All of above
+
+C
+Which is not emotion in Yahoo Messenger?
+A. :d
+B. :x
+C. ==))))))
+D. =))
+
+B
+Which tool is not one of tools to support data analysis?
+A N6
+B Data Recovery (Hồi phục thì lquan gì)
+C Observer Video-Pro
+(tools to support data analysis: It would be possible to analyze even large data sets using only manual techniques, however most people would agree that it is quicker, easier, and more accurate to use a software tool of some kind)
+
+d
+High-fidelity prototype uses materials expected in ...?
+A. Technique for collecting user opinions
+B. Rapid applications development
+C. Personal information management
+D. Final product
+( def
+sách: High-fidelity prototyping uses materials that you would expect to be in the final product and produces a prototype that looks much more like the FINAL thing. )
+
+D
+The system should keep the user informed about what is taking place by using:
+A. layout
+B shortcut
+C Preventing error
+D feedback
+
+NOTE: A
+Which of following is FALSE:
+A. Everything that has been learned through the iterated steps of prototyping and evaluation needn't be integrated to produce the final product.
+B. Evolutionary prototyping involves evolving a prototype into the final product
+C. Throwaway prototyping uses the prototypes as stepping stones towards the final design
+D. If an evolutionary prototyping approach is to be taken, the prototypes should be subjected to rigorous testing along the way.
+
+C
+Which kind of user involvement consistent. but loose touch with the rest of user group?
+A Full - time (constant input, but lose touch with users)
+B Part-time (patchy input and very stressful)
+C Long term
+D Short term (inconsistency across project life)
+
+(add:
+- If a user is co-opted full-time for the whole project,
+their input will be consistent and they will become very familiar with the product and its rationale. However, if the project takes MANY YEARS they may lose touch with the rest of the user group, making their input less valuable.).
+
+a
+Amusing to the designer but not the user is?
+A. Gimmicks
+B. Hostal
+C. Algorithm
+D. None of above
+
+( explain:
+Interfaces, if designed poorly, can make people look stupid, or feel insulted or threatened. The effect can be to make them annoyed to the point of losing their temper. There are many reasons why such emotional responses occur:
+When the appearance of an interface is too noisy, garish, GIMMICKS, or patronizing)
+
+D
+Efficiency refers to
+A the extent to which the product provides the right kind of functionally so that users can do what they need or want to do (utility)
+B protecting the user from dangerous conditions and undesirable situations (safety)
+C how good a product is at doing what it is supposed to do (effectiveness)
+D the way the product supports users in carrying out their tasks.
+
+a
+Nintendo's Pocket Pikachu is designed to motivate children to be more physically active on a regular basis?
+A. True
+B. False
+
+(add:
+Twenty steps on the pedometer will reward the player with one watt. If the owner does not exercise for a week the virtual pet becomes angry and refuses to play anymore. This use of positive rewarding and sulking can be a powerful means of persuasion, given that children often become emotionally attached to their virtual pets, especially when they start to care for them.)
+
+b
+In which kind of data recording that flexibility of use is needs positioning and focusing camera lens. obtrusive
+A Notes plus camera
+B Video
+C Audio plus camera
+D None of the others
+
+- Notes plus camera: Ghi chú (bằng tay hoặc bằng cách gõ) là cách ghi dữ liệu ít flexibility và tech nhất. Gõ bàn phím :)
+- Audio plus camera: note taking and is less intrusive than video, observers to focus on activity rather than the spoken word
+- Video: it can be intrusive (có thể bị xâm phạm)
+
+a
+Attention is process of...?
+A Selecting things to concentrate on
+B. Thinking
+C. Software process
+D. Conceptual design
+( def:
+Attention allows us to focus on information that is relevant to what we are doing. For example, listening to gentle music while working can help people tune out background noise, such as traffic or other people talking, and help them CONCENTRATE ON what they are doing)
+
+c
+Which of IRB form asks "Are there any risk to the subject ?"
+A.Subject selection
+B Abstract
+C Risks and Benefits
+D Procedures
+
+C
+Which is TRUE about Physical design:
+A. Physical design should not conflict with the user's cognitive processes involved in achieving the task.
+B. Physical design specifies the details of the design such as screen layout, and menu structure
+C. All of above
+
+A
+Task analysis is an umbrella term that covers techniques for investigating cognitive processes and physical actions. at a high level of abstraction and in minute detail
+A True
+B False
+( same the book)
+
+a
+Anthropomorphism is the attribution of human qualities to objects?
+A. True
+B. False
+(Def:
+Anthropomorphism is the propensity people have to attribute human qualities to animals and objects while zoomorphism is the shaping of an object or design in animal form)
+
+a
+They are fundamental activities that are recognized in all design EXCEPT:
+A Preparing the requirements
+B Understanding the requirements
+C Producing a design that satisfies the requirements
+D Evaluating the design
+(def:
+there are three fundamental activities that are recognized in all design: understanding the requirements
+producing a design that satisfies those requirements
+and evaluating the design)
+
+d
+Heuristics being developed for
+A. mobile devices
+B. wearables
+C. virtual worlds
+D. All of the others
+
+B
+Mobiles have become pervasive. decreasingly used in all aspects of everyday and working life
+A. T rue
+B False
+(def: Mobile devices have become pervasive, with people increasingly using them in all aspects of their everyday and working lives)
+
+A
+Sketching is not an example of low-fidelity prototype?
+A. False
+B. True
+( explain why choose A:
+A low-fidelity prototype is one that does not look very much like the final product. For example, it uses materials that are very different from the intended final version, such as paper and cardboard rather than electronic screens and metal. The lump of wood used to prototype the PalmPilot described above is a low-fidelity prototype. )
+
+A
+Task analysis is an umbrella term that covers techniques for investigating cognitive processes and physical actions, at a high level of abstraction and in minute detail.
+A. True (chuẩn sách)
+B. False
+
+a
+Field study is one approach of ...?
+A. Evaluation
+B. Development
+( Field study: An evaluation study that is done in a natural environment such as in a person's home, or in a work or leisure place)
+
+B
+What are NOT cognitive frameworks in interaction design?
+A. Theory of action and External cognition
+B. Image processing and Internal cognition
+C Mental model and Distributed cognition
+(addition:
+6 cognitive fameworks:
+1. Mental models
+2. Gulfs of execution and evaluation
+3. Information processing. External
+4. Distributed cognition
+5. External cognition
+6. Embodied interaction.)
+
+A
+What is an evaluation approach where users are asked to perform certain tasks using a system or prototype in an informal or laboratory setting?
+A user testing
+
+B Formative evaluation (done during design to check that the product fulfils requirements and continues to meet users' needs.)
+
+C Summative evaluation (is done when the design is complete)
+
+D user evaluation
+
+E Heuristic evaluation (knowledge of typical users is applied, to identify usability problems
+
+F user studies (range of evaluations involving users, including field studies and experiments)
+
+( Shortly after heuristic evaluation was developed, several independent studies compared heuristic evaluation with other methods, particularly user testing. They found that the different approaches often identify different problems and that sometimes heuristic evaluation misses severe problems)
+
+- Predictive evaluation: theoretically based models are used to PREDICT user performance
+- Analytical evaluation: model and PREDICT user behavior
+- Controlled experiment: test hypotheses about some aspect of an interface or other dimension
+
+d
+What are the benefits of bringing together people with different backgrounds and training in interaction design?
+A. Generate more ideas
+B. Develop new methods
+C. Increase cost
+D. A and B
+E. All of the other
+(def:
+One of the benefits of bringing together people with different backgrounds and training is the potential of many more ideas being generated, new methods developed, and more creative and original designs being produced.)
+
+d
+Which is not Shneiderman's guidelines for error massages include?
+A. Avoid using terms like FATAL INVALID. BAD
+B. Audio warnings
+C Avoid UPPERCASE and long code numbers
+D All of the others
+
+A
+(MINHPQ)
+Evaluation is needed in...?
+A. Checking users can use and like product or not
+( Ở đây sẽ quan tâm đến khả năng sử dụng của hệ thống, hoặc trải nghiệm của người dùng).
+B. Environment
+C. Functional
+D. Data
+
+B
+Which statement is not a one of benefits of conceptualizing a design in general terms early on in the design process encourages design teams:
+( 3 Benefit bao gồm: Common Ground, Orientation và Open-minded ness)
+
+A To establish a set of common terms they all understand and agree upon
+( Common Ground)
+
+B To become narrowly focused early on ( cái này phải là From become thì đúng)
+
+C To orient themselves towards asking specific kinds of questions about how the conceptual model will be understood by the targeted user
+(Orientation)
+
+D To reducing the chance of misunderstandings and confusion arising later on
+(Common Ground)
+
+B
+Deceptive. make people feel anxious. inferior or stupid?
+A. False
+B. True ( Anh em cứ hiểu là người ta Bị lừa thì sẽ cảm thấy ngu ngốc, cảnh giác)
+
+d
+Choose the correct statement:
+A. Use cases describe human activities in a story.
+(Use cases may be described graphically)
+
+B. Scenarios explicitly describe the use of software or other technological support to achieve a task (does not explicitly - thì đúng)
+( Cái Scenarios explicitly này mới describes human activities or tasks in a story)
+
+C. Use cases were developed to overcome the limitations of both scenarios and essential use cases.
+
+D. Essential use cases represent abstractions from scenarios and try to avoid the assumptions of an use case
+
+(Use cases also focus on user goals, but the emphasis here is on a user-system interaction rather than the user's task itself)
+
+A
+Select the first step of design phase in Interaction Design
+
+A Developing conceptual model
+B Developing interactive prototype
+C Developing user interface of product
+D None of the others
+
+a
+Which is the disadvantage of high-fidelity prototype?
+A. More expensive to develop
+B. Limited usefulness of usability testing
+C. Poor detailed specification to code to
+D. Limited error checking
+
+( B, C, D là disadvantage của low- fidelity prototype)
+
+a
+Yahoo Messenger chatting is an example of
+A. Synchronous communication
+B. Multi tasking communication.
+C. Asynchronous communication
+D. Multi-users communication
+
+A
+Asking user, observing user, inspection method are...?
+A. Main evaluation methods
+B. Star life cycle model
+C. Investigating systems
+D. The usability of engineering life cycle
+
+d
+Arrange the steps of interaction design in the same order:
+1 Developing design
+2 Evaluating
+3 Building interactive design
+4 Identify needs
+A 1,2,3,4
+B 1,3,2,4
+C 4,3,2,1
+D. 4. 1.3.2
+
+(Addition:
+1.Establishing requirements
+2. Designing alternatives
+3. Prototyping
+4. Evaluating.
+)
+
+a
+What is usable?
+A. Easy to learn, effective to use, and providing an enjoyable user experience
+B. Nice and beautiful
+C. Good
+D. None of above
+
+(Addition:
+Usability refers to ensuring that interactive products are easy to learn, effective to use, and enjoyable from the user's perspective.)
+
+B
+"What is the range of errors that are possible using the product and what measures are there to permit users to recovery easily from them?". Which usability goal is this question for?
+A. Utility
+B. Safety
+C. Effectiveness
+D. Efficiency
+
+(Addition:
+- Utility : Does the product provide an appropriate set of functions that will enable users to carry out all their tasks in the way they want to do them?
+- Efficiency : Once users have learned how to use a product to carry out their tasks, can they sustain a high level of productivity?
+)
+
+c
+VBIC stands for
+A. Vietnamese Business Information Center
+B. Virtual Business Internet Center
+C. Virtual Business Information Center
+D. Vietnamese Business Internet Center
+
+A
+A fundamental aspect of everyday life is being social - talking to one other?
+A. False
+B. True
+
+(Addition:
+A fundamental aspect of everyday life is being social - interacting with each other.)
+
+D
+What does multi-touch support
+A. swiping
+B. flicking
+C. pinching
+D. All of the others
+
+(Addtion: swiping, flicking, pinching, pushing, and tapping)
+
+D
+What are the main evaluation methods?
+A Observing users. Asking users
+B Asking experts. User testing
+C Inspection methods. Modeling users' task performance
+D All of the others
+
+A
+Utility refers to
+A. the extent to which the product provides the right kind of functionally so that users can do what they need or want to do.
+B the way the product supports users in carrying out their tasks
+C how easy a system is to team to use
+D how good a product is at doing it is supposed to do
+
+(Addition:
+- Utility refers to the extent to which the product provides the right kind of functionality so that users can do what they need or want to do.
+- Efficiency refers to the way a product supports users in carrying out their tasks.
+- Effectiveness is a very general goal and refers to how good a product is at doing what it is supposed to do.
+- Learnability refers to how easy a system is to learn to use )
+
+D
+Which of the following is type of data of usability test
+A. Time to complete a task
+B. Time to complete a task after a specified. time away from the product
+C. Number and type of errors per task
+D. All of the others
+
+(Addition:
+- Time to complete a task.
+- Time to complete a task after a specified time away from the product.
+- Number and type of errors per task. Number of errors per unit of time.
+- Number of navigations to online help or manuals.
+- Number of users making a particular error.
+- Number of users completing a task successfully.
+)
+
+c
+Select the technique. which is used mainly to investigate an existing situation. not to envision new products
+A use cases
+B Scenarios
+C Task analysis
+D Essential use cases
+
+(Addtion:
+Descriptions of user tasks such as scenarios, use cases, and essential use cases help users to articulate existing work practices.
+They also help to express envisioned use for new products.)
+
+B
+Being good at displaying a small number of options at the same time and where the size of the display is small. iPods one factors on
+
+A. A number of menu interface styles (including flat lists, drop-down, pop-up, contextual, and expanding ones, e.g. scrolling and cascading)
+
+B Flat menus
+
+(Addition:
+Flat menus are good at displaying a small number of options at the same time or where the size of the display is small, e.g. cell phones, cameras, iPod)
+
+A
+Example quantitative data of interviews is <P-211>
+A. Age, job role, years of experience. Responses to closed questions.
+B. None of the others
+C. All of the others
+D. Demographics of participants. Time spent on a task. The number of people involved in an activity.
+
+c
+Which can be thought as a "conversation with a purpose"
+A. Questionnaires
+B. Recording
+C. Interviews
+D. None of the others
+
+(Addition:
+- Interviews can be thought of as a "conversation with a purpose"
+- Questionnaires can be used on their own or in conjunction with other methods to clarify or deepen understanding.
+)
+
+B
+Which is middle value of data when ranked
+A. None of the others
+B Median
+C Mean
+D Mode
+
+(Addition:
+There are three different types of average and which one you use changes the meaning of your results.
+These three are: Mean, Median, and Mode)
+
+d
+In usability testing. field observations may be used to
+A. identify errors
+B. calculate performance times
+C. explain errors
+D. provide contextual understanding.
+
+(Addition:
+- Field observations may be used to providecontextual understanding.
+- The data is used to calculate performancetimes, and to identify & explain errors.)
+
+A
+Select incorrect statement
+A Closed-questions result is mainly qualitative data
+B Raw data from questionnaires consists of the respondents' answers
+C All of above
+D Raw interview data is usually in the form of audio recording and interviewer's notes
+
+(Def:
+- Closed questions are usually treated as quantitative data and analyzed using simple quantitative analysis
+- Raw data from questionnaires consists of the respondents' answers to the questions
+- Raw interview data is usually in the form of audio recordings and interviewer notes)
+
+D
+The next step of exploring the questions is:
+A. Identify the practical issues
+B. Decide how to deal with the ethical issues
+C. Determine the goals
+D. Choose the evaluation approach and methods
+
+(DEF: 6 steps - DECIDE-Framework
+1. Determine the goals
+2. Explore the questions
+3. Choose the evaluation methods
+4. Identify the practical issues
+5. Decide how to deal with the ethical issues
+6. Evaluate, analyze, interpret, and present the data.)
+
+d
+Which is NOT coordinating mechanisms?
+A. Schedules ,rules and conventions
+B. Verbal and non-verbal communication
+C. Shared external representations.
+D. Overhearing and overseeing
+
+(DEF:
+They use:
+- verbal and non-verbal communication
+- schedules, rules, and conventions
+- shared external representations)
+
+C
+Which of the following is not usability test type of data
+A. Number of errors per unit of time
+B Number and type of errors per task
+C Document file
+D Time to complete a task
+
+(DEF: Type of data of usability test
+- Time to complete a task.
+- Time to complete a task after a specified time away from the product.
+- Number and type of errors per task.
+- Number of errors per unit of time.
+- Number of navigations to online help or manuals.
+- Number of users making a particular error.
+- Number of users completing a task successfully.)
+
+d
+What is a conceptual model?
+A. working strategy
+B. A framework of general concepts and their interrelations
+C. A description of the user interface
+D. A high-level description of how a system is organized and operates
+
+(Addition:
+- A conceptual model provides a working strategy and a framework of general concepts and their interrelations
+- A conceptual model. They describe one as "a high-level description of how a system is organized and operates"
+)
+
+NOTE: A
+The interface should accommodate both novice and experienced users by using:
+A. shortcut
+B Preventing error (prevent errors from occurring)
+C feedback
+D layout
+
+a
+Which is type of quantitative data analysis?
+A. Percentage and average
+B. Categorizing data
+C. Looking for critical incidents
+D. Identifying recurring patterns or themes
+
+(DEF:
+The techniques explored here are averages and percentages.
+Percentages are useful for standardizing the data, particularly if you want to compare two or more large sets of responses.
+)
+
+C
+What is cognition?
+A. Designing structure of project
+B Designing interactive products
+C Something goes on in our heads when we carry out our everyday activities
+D Design principles
+
+(Addition:
+Hiểu đơn giản nó là các hoạt động : such as thinking, remembering, learning, daydreaming, decision making, seeing, reading, writing, and talking)
+
+a
+Which can be designed to be compact and variably positioned on a screen?
+A. Icon
+B. Win form
+C. Docking
+D. Menu
+
+(Addition:
+Icon Design can also be designed to be compact and variably positioned on a screen.)
+
+B
+Which offering lists of options that could be scrolled through and selected?
+A. Icons
+B. Menus
+C. Pointing device
+
+(DEF:
+- Menus (offering lists of options that could be scrolled through and selected in the way a menu is used in a restaurant)
+- Icons (to represent applications, objects, commands, and tools that were opened or activated when clicked on).
+- Pointing device (a mouse controlling the cursor as a point of entry to the windows, menus, and icons on the screen).)
+
+d
+Babble at IBM is developed by?
+A. Stefen Hawking
+B. Steven Gerrard
+C. Eistein
+D. David Smith
+
+(Addition:
+Babble, developed at IBM by David Smith (Erickson et al, 1999), which provided a dynamic visualization of the participants in an ongoing chat room)
+
+B
+How many cognitive frameworks? ( Sẽ check lại)
+A. 3
+B. 5
+
+b
+Dealing with constraints, such as gaining access to users or accommodating users' routines, is an important skill for designer (evaluators - mới đúng thì phải) to develop.
+A. True
+B. False
+
+b
+Brain-computer interfaces (BCI) provide a communication pathway between
+A. Two people
+B. A person's brain waves and an external device. such as a cursor on a screen
+C. None of the other
+D. Two devices
+
+(DEF: Brain-computer interfaces (BCI) provide a communication pathway between a person's brain waves and an external device, such as a cursor on a screen or a tangible puck that moves via airflow)
+
+a
+What is a basic RAD lifecycle model of software development?
+A. Project initiation, JAD workshops, Iterative design and build. Evaluate final system. Implementation review.
+B. JAD workshops, Project initiation. Iterative design and build. Evaluate final system. Implementation review.
+C. Iterative design and build. Project initiation, JAD workshops, Evaluate final system. Implementation review.
+D. Iterative design and build. Project initiation, JAD workshops, Implementation review, Evaluate final system.
+
+a
+The framework is simple but not effective
+A. No
+B. Yes
+
+B
+Reduced work load memory is NOT a design implication for supporting user's memory?
+A. True
+B. False
+
+c
+... is performed in laboratory which is controlled by evaluator
+A. Field study
+B. Formative evaluation
+C. Controlled experiment
+D. Analytical evaluation
+
+a
+Functional requirements are used to describe what the product should do.
+A. True
+B. False
+
+a
+GOMS has also been developed to provide a quantitative model - the keystroke level model
+A. True
+B. False
+
+a
+Which is effectiveness
+A. appropriate support? task coverage. information available
+B. how safe?
+C. performance measurements
+D. which functions are superfluous?
+
+d
+Most effective icons are ...
+A. A lithe different ones
+B. Same one
+C. Completely different ones
+D. Similar ones
+
+c
+How many types of interaction designer can have with a product/system?
+A. 5
+B. 3
+C. 4
+D. 6
+
+(ADDITION:
+four types of interaction:
+1. Instructing - users issue instructions to a system.
+2. Conversing - have a dialog with a system
+3. Manipulating - interact with objects in a virtual or physical space
+4. Exploring - move through a virtual environment or a physical space)
+
+NOTE A
+The current speaker chooses the next speaker by asking an opinion, question, or request is not (bỏ not thì đúng) one of rules of Sacks et al?
+A. False
+B. True
+
+d
+Awareness not involved?
+A. Who is around
+B. What is happening
+C. Who is talking with whom
+D. All of above
+
+Câu này phải bỏ not chứ nhỉ
+
+B
+In order to make goals operational, we must clearly articulate the questions to be answered by the evaluation study
+A. False
+B. True
+
+(chuẩn sách chương 13)
+
+c
+Which statement is incorrect about interaction types?
+(Không thấy câu nào dễ nhầm)
+A. Exploring involves users moving through virtual or physical environment.
+B. Virtual object can be manipulated by moving, selecting, opening and closing them.
+C. Instructing is a bad repetitive kinds of action performed on multiple object.
+D. Differs from instructing in that it more like two-way communication, with the system acting like a partner rather than a machine that obeys orders.
+
+a
+Learnability refers to ...
+A. how easy a system is to learn to use
+B. how easy a product is to remember how to use, once learned. (Memorability)
+C. the extent to which the product provides the right kind of functionally so that users can do what they need or want to do. (Utility)
+D. the way the product supports users in carrying out their tasks. (Efficiency)
+
+(Addition:
+- Safety involves protecting the user from dangerous conditions and undesirable situations.
+- Effectiveness is a very general goal and refers to how good a product is at doing what it is supposed to do.)
+
+NOTE: C (sai câu này thì sẽ sai câu sau)
+Which is the second key issues of data gathering
+A. Setting goals (1)
+B. Pilot studies (4)
+C. The relationship with participants (2)
+D. Triangulation
+(Addition:
+Five Key Issues:
+1-Setting Goals: Decide how to analyze data once collected
+2-Identifying Participants (Chỉ trong sách có key issue này)
+3-Relationship with Participants: Clear and professional , informed consent when appropriate
+4-Triangulation: Use more than one approach
+5-Pilot Studies: Small trial of main study)
+
+C
+What is the order of 4 key issues of data gathering?
+A. Goals, Triangulation, Participant relationship, Pilot
+B. Triangulation, Goals , Participant relationship, Pilot
+C. Goals, Participant relationship, Triangulation, Pilot
+D. Triangulation, Participant relationship, Pilot, Goals
+
+(Des: Follow câu trước (104))
+
+D
+Select the technique, which is used mainly to investigate an existing situation, not to envision new products
+A. Use cases
+B. Scenarios
+C. Essential use cases
+D. Task analysis
+
+(Addition:
+- Use cases also focus on user goals, but the emphasis here is on a user-system interaction rather than the user's task.
+- A scenario is an "informal narrative description". It describes human activities or tasks in a story that allows exploration and discussion of contexts, needs, and requirements.
+- Essential use cases were developed to combat what they see as the limitations of both scenarios and use cases as described above.)
+
+a
+Which is NOT a kind of inspection technique?
+A. Predictive models
+B. Heuristic evaluation
+C. Walkthrough
+D. None of above
+
+(Addition:
+- These inspection methods include:
++ Heuristic evaluation: is a usability inspection method that was developed.
++ Walkthroughs are an alternative approach to heuristic evaluation for predicting users' problems without doing user testing.)
+
+d
+What are the Early focus on users and tasks?
+A. Users' tasks and goals re the driving force behind the development
+B. Users' behavior and context of use are studied and the system is designed to support them
+C. Users' characteristics are captured and designed for.
+D. All of above
+
+(Addition:
+- Five further principles:
++ Users' tasks and goals are the driving force behind the development
++ Users' behavior and context of use are studied and the systemis designed to support them.
++ Users' characteristics are captured and designed for.
++ Users are consulted throughout development from earliest phases to the latest and their input is seriously taken into account.
++ All design decisions are taken within the context of the users, their work, and their environment.)
+
+D
+Which is Shneiderman's guidelines for error messages include?
+A. Avoid using terms like FATAL, INVALID, BAD
+B. Audio warnings
+C. Avoid UPPERCASE and long code numbers
+D. All of the others
+
+(Addition
+- Shneiderman's guidelines for error messages include:
++ Avoid using terms like FATAL, INVALID, BAD
++ Audio warnings
++ Avoid UPPERCASE and long code numbers
++ Messages should be precise rather than vague
++ Provide context-sensitive help)
+
+b
+In which kind of data recording that more expensive, editing, mixing and analysis equipment needed.
+A. Audio plus camera
+B. None of the others
+C. Video
+D. Notes plus camera
+
+(Addition: Đã tìm hiểu trong sách: mỗi loại có advantages và disadvantages khác nhau, nhưng ko có những đặc điểm như expensive, editing, mixing and analysis equipment needed)
+
+b
+Which one of design principle refers to have the same interfaces to the all tasks?
+A. Constraints
+B. Consistency
+C. Feedback
+D. Affordance
+
+(Def:
+- Design principles are used by interaction designers to aid their thinking when designing for the user experience.
+- Design principles are derived from a mix of theory-based knowledge, experience, and common sense.
+- The most common ones: visibility, feedback, constraints, consistency, and affordance.
++ Visibility. The importance of visibility is exemplified by our contrasting examples at the beginning of the chapter.
++ Feedback. Related to the concept of visibility is feedback
++ Constraints. The design concept of constraining refers to determining ways of restricting the kinds of user interaction that can take place at a given moment.
++ Consistency. This refers to designing interfaces to have similar operations and use similar elements for achieving similar tasks.
++ Affordance. This is a term used to refer to an attribute of an object that allows people to know how to use it.)
+
+c
+Which of the following advise us not to use irrelevant information
+A. Recognition rather than recall
+B. Error prevention
+C. Aesthetic and minimalist design
+D. Flexibility and efficiency of use
+
+(Addition:
+- Recognition rather than recall - Minimize the user's memory load by making objects, actions, and options visible
+- Error prevention - Even better than good error messages is a careful design that prevents a problem from occurring in the first place.
+- Aesthetic and minimalist design - Dialogues should not contain information that is irrelevant or rarely needed
+- Flexibility and efficiency of use - Accelerators - unseen by the novice user - may often speed up the interaction for the expert user such that the systemcan cater to both inexperienced and experienced users.)
+
+a
+The techniques used may not be compatible with the goal of the study
+A. False
+B. True
+
+(Addition:
+- The techniques used must be compatible with the goal of the study, i.e. they must be able to gather appropriate data.)
+
+a
+How many steps of theory of action
+A. 7
+B. 5
+C. 6
+D. 4
+
+Không tìm ra - chắc học thuộc
+
+c
+Which statement is INCORRECT about qualitative and quantitative?
+A. Quantitative data is data that is in the form of numbers, or that can easily be translated into numbers (Chuẩn sách)
+B. Quantitative analysis uses numerical methods to ascertain the magnitude, amount, or size of something (Chuẩn sách)
+C. Qualitative data is data that is easy to measure, count, or express in numerical terms in a sensible fashion (difficult to measure).
+D. Qualitative analysis focuses on the nature of something and can be represented by themes. patterns. and stories (Chuẩn sách)
+
+c
+According to Strauss and Corbin (1998), how many aspects of "coding" in grounded theory?
+A. 1
+B. 2
+C. 3
+D. 4
+
+(Addition:
+- This coding has three aspects:
++ Open coding: is the process through which categories, their properties, and dimensions are discovered in the data.
++ Axial coding: is the process of systematically fleshing out categories and relating themto their subcategories.
++ Selective coding: is the process of refining and integrating categories to form a larger theoretical scheme.)
+
+D
+2 What is meant by "usable products"?
+
+a. Easy to learn
+b. Effective to use
+c. Providing an enjoyable user experience
+d. All of the others
+e. None of the others
+
+Không tìm thấy dẫn chứng, nhưng cái này chắc khá dễ hiểu
+
+D
+4 "By interaction design, we mean designing
+(a) products to support the way people
+(b) in their everyday and working lives."
+Fill in the blank (a), (b) with:
+a. beautiful, use
+b. good, use
+c. brand new, communicate
+d. interactive, communicate
+
+(Def: We define interaction design as designing interactive products to support the way people communicate and interact in their everyday and working lives.)
+
+B
+5 HCI has cast its net much wider, begin concerned with the theory, research, and practical of designing for all manner of products, whereas ID has traditionally had a narrower focus, begin "concern with the design, evaluation, and implementation of interactive computing systems for human use.
+a. True
+b. False
+
+(Phải là ID (Interaction Design) thì đúng)
+(Addition:
+- ID has cast its net much wider, being concerned with the theory, research, and practice of designing user experiences for all manner of technologies, systems, and products.
+- HCI has traditionally had a narrower focus, being "concerned with the design, evaluation, and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them.)
+
+B
+7 What is the concept that has become the central of interaction design?
+a. Interface
+b. User experience
+c. Functionality
+d. Design
+e. Product
+
+(Def:
+- Sách said that: The user experience, which is a central concern of interaction design, is then introduced.
+Addition:
+- One main aim of interaction design is to reduce the negative aspects (e.g. frustration, annoyance) of the user experience while enhancing the positive ones.)
+
+E
+8 Choose the 4 basic activities in the process of interaction design in the list below:
+1. Building interactive versions of the design
+2. Making a design plan
+3. Identifying needs and establishing requirements
+4. Evaluating what is being built
+5. Developing designs that meet requirements
+6. Creating report about what has been built
+a. 1, 2, 5, 6
+b. 2, 3, 5, 6
+c. 2, 3, 4, 5
+d. 1, 2, 4, 6
+e. 1, 3, 4, 5
+
+(Def:
+- The process of interaction design involves four basic activities:
+1. Establishing requirements
+2. Designing alternatives
+3. Prototyping
+4. Evaluating.
+These activities are intended to inform one another and to be repeated.)
+
+A
+9 What are goals that usability broken down into?
+a. Efficiency, Effectiveness, Safety, Utility, Learnability, Memorability
+b. Efficiency, Safety, Utility, Learnability, Controlability
+c. Effectiveness, Safety, Utility, Learnability, Controlability
+d. Efficiency, Effectiveness, Safety, Utility, Learnability, Changeability
+
+(Def:
+- Usability is broken down into the following goals:
++ Effectiveness: is a very general goal and refers to how good a product is at doing what it is supposed to do.
++ Efficiency: refers to the way a product supports users in carrying out their tasks.
++ Safety: involves protecting the user from dangerous conditions and undesirable situations.
++ Utility: refers to the extent to which the product provides the right kind of functionality so that users can do what they need or want to do.
++ Learnability: refers to how easy a system is to learn to use.
++ Memorability: refers to how easy a product is to remember how to use, once learned.
+- Usability goals are typically operationalized as questions
+
+A
+10 Products should be designed to provide adequate feedback to the users to ensure they know what to do next in their tasks.
+a. True
+b. False
+
+(Addition: Đúng như trong sách rồi
+- Design principles are used by interaction designers to aid their thinking when designing for the user experience.)
+
+C
+11 What "Constraints" refer to?
+a. Designing interfaces to have similar operations and use similar elements for achieving similar tasks.
+b. An attribute of an object that allows people to know how to use it.
+c. Determining ways of restricting the kinds of user interaction that can take place at a given moment.
+d. None of the others
+
+(Check lại câu 111 có addition rồi đấy - đáp án đã chuẩn sách)
+
+C
+12 Fill in (a) in this sentence: "The more (a) the more likely users will be able to know what to do next."
+a. Consistency
+b. Feedback
+c. Visibility
+d. Affordance
+e. Constraints
+f. None of the others
+
+(Chuẩn sách)
+
+B
+13 One of the problems of applying more than one of the design principles in interaction design is that trade-on (trade-off) can arise between them.
+a. True
+b. False
+
+Không có cái nào là trade-on cả - yên tâm
+(Def: One of the problems of applying more than one of the design principles in interaction design is that trade-offs can arise between them.)
+
+B, C, D, F
+14 Optimizing the interaction between users and interactive products require taking into account a number of interdependent factors, including ... (Choose 4)
+a. Materials
+b. Type of activity
+c. Cultural differences
+d. User groups
+e. Feedback
+f. Context of use
+
+Trong key point: chapter 1
+(Def: Optimizing the interaction between users and interactive products requires taking into account a number of interdependent factors, including context of use, types of activity, accessibility, cultural differences, and user groups.
+
+Addition:
+- Interaction design is concerned with designing interactive products to support the way people communicate and interact in their everyday and working lives.
+- Interaction design is multidisciplinary, involving many inputs fromwide-ranging disciplines and fields.
+- The notion of the user experiences is central to interaction design.
+- Identifying and specifying relevant usability and user experience goals can help lead to the design of good interactive products.
+- Design principles, such as feedback and simplicity, are useful heuristics for analyzing and evaluating aspects of an interactive product.)
+
+D
+15 Identifying usability and user experience goals is a pre-requisite to understand what?
+a. Product
+b. User
+c. Requirement
+d. Problem Space
+
+(Def:
+- As emphasized in Chapter 1, identifying usability and user experience goals is a prerequisite to understanding the problem space.)
+
+A
+16 "People will want to watch movies on their cell phones". This sentence is a/an ...
+a. Assumption
+b. Claim
+c. Requirement
+d. Goal
+
+(Def: Trong sách là e.g assumption: people will want to watch TV while driving.)
+
+A
+17 Conceptual model is an abstraction that outlines what people can do with a product and what concepts are needed to understand how to interact with it.
+a. True
+b. False
+
+Trong sách chương 2:
+(Def:
+- Conceptual model is an outline of what people can do with a product and what concepts are needed to understand how to interact with it)
+
+A
+18 According to Johnson and Henderson, a conceptual model should comprise of 4 components, what are they?
+a. The major metaphors and analogies, the concepts, the relationships between concepts, the mappings
+b. The major metaphors and analogies, the concepts, the mapping between concepts, the relationship
+c. The concepts, the relationship between concepts, the interface, the user experience
+d. The concepts, the mapping between concepts, the interface, the user experience
+
+(Def:
+- The core components are:
++ Metaphors and analogies that convey to people how to understand what a product is for and how to use it for an activity (e.g. browsing, bookmarking)
++ The concepts that people are exposed to through the product, including the task-domain objects they create and manipulate, their attributes, and the operations that can be performed on them (e.g. saving, revisiting, organizing).
++ The relationships between those concepts (e.g. whether one object contains another, the relative importance of actions to others, and whether an object is part of another).
++ The mappings between the concepts and the user experience the product is designed to support or invoke (e.g. one can revisit through looking at a list of visited sites, most frequently visited, or saved websites).)
+
+D
+19 What is the central component of a conceptual model?
+a. The concept
+b. The object model
+c. The interface model
+d. The interface metaphor
+
+(Def:
+- Interface metaphors are considered to be a central component of a conceptual model.)
+
+NOTE: B (Doc là C sách là B lại có C ?)
+21 What NOT are types of interaction?
+a. Instructing
+b. Discussing
+c. Conversing
+d. Manipulating
+e. Exploring
+
+(Def:
+- The four types of interaction:
++ Instructing: where users issue instructions to a system. This type of interaction describes how users carry out their tasks by telling the system what to do
++ Conversing: where users have a dialog with a system.
++ Manipulating: where users interact with objects in a virtual or physical space by manipulating them (e.g. opening, holding, closing, placing)
++ Exploring: where users move through a virtual environment or a physical space.)
+
+B
+22 Match the name with the description of interaction types:
+1. Instructing
+2. Conversing
+3. Exploring
+A. User have dialog with a system
+B. How users carry out their tasks by telling the system what to do
+C. Users moving through virtual or physical environments
+a. 1 - A, 2 - B, 3 - C
+b. 1 - B, 2 - A, 3 - C
+c. 1 - C, 2 - A, 3 - B
+d. 1 - C, 2 - B, 3 - A
+e. 1 - B, 2 - C, 3 - A
+
+Follow câu 134 là ngon ngay
+
+A
+23 What is the designer's model?
+a. The model the designer has of how the system should work
+b. The model the user wants the system to be
+c. The model the user understands how the system works
+d. The model the designer understands how the system works
+
+(Def:
+- The framework comprises three interacting components: the designer, the user, and the system.
++ The designer's model - the model the designer has of how the systemshould work.
++ The system image - how the system actually works is portrayed to the user through the interface, manuals, help facilities, and so on.
++ The user's model - how the user understands how the systemworks.)
+
+B
+24 Decisions about conceptual design should be made after commencing any physical design, e.g. choosing menus, icons, and dialog boxes.
+
+a. True
+b. False
+
+before chứ không phải after
+(Def:
+- Decisions about conceptual design should be made before commencing physical design (e.g. choosing menus, icons, dialog boxes.)
+
+- Key points chapter 2:
++ It is important to have a good understanding of the problem space, specifying what it is you are doing, why, and how it willsupport users in the way intended.
++ A fundamental aspect of interaction design is to develop a conceptual model.
++ A conceptual model is a high-level description of a product in terms of what users can do with it and the concepts they need to understand how to interact with it
++ Interface metaphors are commonly used as part of a conceptual model
++ Interaction types (e.g. conversing, instructing) provide a way of thinking about how best to support the activities users will be doing when using a product or service.
++ Paradigms, theories, models, and frameworks provide different ways of framing and informing design and research.)
+
+A
+25 Cognition is what goes on in our heads when we carry out our everyday activities.
+a. True
+b. False
+
+Theo doc nhé
+(Addition:
+- Cognition has also been described in terms of specific kinds of processes. These include:
++ attention
++ perception
++ memory
++ learning
++ reading, speaking, and listening
++ problemsolving, planning, reasoning, and decision making.)
+
+A, D
+26 What are the design implications of "memory"? (Choose 2)
+a. Do not overload users' memories with complicated procedures for carrying out tasks
+b. Do not use more than 7 options on a menu, or more than 7 bullets in a list, etc.
+c. Use only one way of encoding digital information
+d. Design interfaces that promote recognition rather than recall
+e. Design interfaces that promote recall rather than recognition
+
+(Def:
+- Design implications of memory:
++ Do not overload users' memories with complicated procedures for carrying out tasks.
++ Design interfaces that promote recognition rather than recall by using menus, icons, and consistently placed objects.
++ Provide users with a variety of ways of encoding digital information (e.g. files, emails, images) to help them remember where they have stored them, through the use of categories, color, flagging, time stamping, icons, etc.
+
+C
+27 What is NOT a design implication of "learning"?
+a. Design interfaces that encourage exploration
+b. Design interface that constrain and guide users to select appropriate action when initially leaning
+c. Design interface that is have many new interesting items to learn
+d. Dynamically link concrete representations and abstract concepts to facilitate the learning of complex material
+
+(Def:
+- Design implications of learning:
++ Design interfaces that encourage exploration.
++ Design interfaces that constrain and guide users to select appropriate actions when initially learning.
++ Dynamically link concrete representations and abstract concepts to facilitate the learning of complexmaterial.)
+
+C, F
+28 What are NOT cognitive frameworks in interaction design? (Choose 2)
+a. Mental model
+b. Theory of action
+c. Image processing
+d. External cognition
+e. Distributed cognition
+f. Internal cognition
+
+(Def: Slide
+- Theories of cognition:
++ Mental models, theory of action
++ Information processing
++ External cognition, distributed cognition)
+
+F
+29 According to Norman's theory of action, there are 7 stages of an activity. What is NOT one of them?
+a. Establish a goal
+b. Form an intention
+c. Evaluate the system state
+d. Execute an action
+e. Perceive the system state
+f. None of the others
+
+Specify an action sequence
+Interpret the state
+
+Không thấy, theo doc thôi
+
+B
+30 Computational offloading occurs when we use a tool or device in conjunction with an internal (external thì đúng ) representation to help us carry out a computation.
+a. True
+b. False
+
+External chứ ko phải internal (đã check trong sách)
+
+C
+31 "Using pen and paper to solve a math problem" is an example of
+(External cognition include)
+a. Annotating and cognitive tracing
+b. Externalizing to reduce memory load
+c. Computational offloading
+d. None of the others
+
+Chính là vd của định nghĩa câu trước (143)
+
+B, C
+32 What are the main benefits of conceptual frameworks and cognitive theories? (Choose 2)
+a. They can make the design easier to understand
+b. They can explain user interaction
+c. They can predict user performance
+d. They can provide different views about the system
+
+(Def:
+- The main benefits of conceptual frameworks and cognitive theories are that they can explain user interaction, informdesign, and predict user performance.
+
+- Key points chapter 3:
++ Cognition comprises many processes, including thinking, attention, learning, memory, perception, decision making, planning, reading, speaking, and listening.
++ The way an interface is designed can greatly affect how well people can perceive, attend, learn, and remember how to carry out their tasks.).
+
+A
+33 Quantitative data is data that is in the form of numbers, or that can easily be translated into numbers
+a. True
+b. False
+
+Chuẩn definition trong sách
+
+B
+34 Qualitative data is data that is easy to measure, count, or express in numerical terms in a sensible fashion
+a. True
+b. False
+
+Follow câu trước (146)
+Đã check không có định nghĩa nào "is data that is easy to measure, count, or express in numerical terms in a sensible fashion " như này mà true => Yên tâm
+
+A
+35 In describing a population, we conclude that the average person is 5 feet 11 inches tall, weighs 180 pounds, and is 45 years old. What analysis we have used?
+a. Quantitative
+b. Qualitative
+c. None of the others
+d.
+
+(Def:
+- Quantitative analysis uses numerical methods to ascertain the magnitude, amount, or size of something, for example, the attributes, behavior, or opinions of the participants. For example, in describing a population, a quantitative analysis might conclude that the average person is 5 feet 11 inches tall, weighs 180 pounds, and is 45 years old.
+- Qualitative analysis focuses on the nature of something and can be represented by themes, patterns, and stories. For example, in describing the same population, a qualitative analysis might conclude that the average person is tall, thin, and middle-aged.)
+
+B
+36 In describing a population, we conclude that the average person tall, thin, and middle-aged. What analysis we have used?
+a. Quantitative
+b. Qualitative
+c. None of the others
+d.
+
+(Def:
+- Quantitative data is data that is in the formof numbers, or that can easily be translated into numbers. For example, the number of years' experience the interviewees have, the number of projects a epartment handles at a time, or the number of minutes it takes to perform a task.
+- Qualitative data is not expressed in numerical terms. For example,
+qualitative data includes descriptions, quotes from interviewees, vignettes of activity, and images. It is possible to express qualitative data in numerical form, but it is not always meaningful to do so)
+
+E
+What is NOT a data gathering method?
+a. Interviews
+b. Questionnaires
+c. Observation
+d. All of the others
+e. None of the others
+
+D
+38 Audio recordings, notes, and video recordings are raw data of ...
+a. Interviews
+b. Questionnaires
+c. Observation
+d. A and C
+e. A and B
+B and C
+
+D (ok)
+39 Match the name and definitions of coding categories according to Strauss and Corbin (1998):
+1. Open coding
+2. Axial coding
+3. Selective coding
+A. This is the process of systematically fleshing out categories and relating them to their subcategories
+B. This is the process through which categories, their properties, and dimensions are discovered in the data.
+C. This is the process of refining and integrating categories to form a larger theoretical scheme.
+a. 1 - A, 2 - B, 3 - C
+b. 1 - A, 2 - C, 3 - B
+c. 1 - B, 2 - C, 3 - A
+d. 1 - B, 2 - A, 3 - C
+e. 1 - C, 2 - B, 3 - C
+1 - C, 2 - C, 3 - B
+
+A (ok)
+40 Storytelling is used extensively in interaction design both to communicate findings of investigate studies, and as the basis for further development such as product design or system enhancements.
+a. True
+b. False
+
+(SGK: There are three different kinds of average: mean, mode, and median.)
+A, C, F
+41 What are 3 kinds of average? (Choose 3)
+a. Mean
+b. Medium
+c. Median
+d. Minimum
+e. Maximum
+f. Mode
+
+(SGK_cùng nơi search với câu 154:
+Key points
++ The kind of data analysis that can be done depends on the data gathering techniques used.
++ Qualitative and quantitative data may be collected from any of the main data gathering techniques: interviews, questionnaires, and observation.
++ Quantitative data analysis for interaction design usually involves calculating percentages and averages.
++ There are three different kinds of average: mean, mode, and median.
++ Graphical representations of quantitative data help in identifying patterns, outliers, and the overall view of the data.
++ Qualitative data analysis may be framed by theories. Three such theories are grounded theory, activity theory, and distributed cognition.)
+
+==> A, D, E
+42 Qualitative data analysis may be framed by 3 theories. What are they? (Choose 3)
+
+a. Grounded theory
+b. Graph theory
+c. Inclusive theory
+d. Activity theory
+e. Distributed cognition
+f. Boundary theory
+
+C
+43 Developers can gain a better understanding of users' goals, leading to a more appropriate, more usable product when we have who involving in the development process?
+a. Technical Leader
+b. Project Manager
+c. User
+d. Consultant
+e. Customer
+F. Tester
+
+B, D, F
+44 According to Gould and Lewis (1985), there are 3 principles that they believed would lead to a "useful and easy to use computer system". What are they? (Choose 3)
+a. Beautiful interfaces
+
+b. Easy focus on users and tasks (first understanding who the users will be by directly studying)
+
+c. Meet requirements
+
+d. Empirical measurement (the reactions and performance of intended users to printed scenarios, manuals is observed and measured)
+
+e. Simple is the best
+
+f. Iterative design (problems are found in user testing, they are fixed and then more tests)
+
+E
+45 What term is used to represent a model that captures a set of activities and how they are related?
+a. System Model
+b. Waterfall Model
+c. Concept Model
+d. Behavioral Model
+e. Lifecycle Model
+f. Goal Model
+
+D
+46 What is RAD and JAD?
+a. Rapid Applications Development and Java Application Development
+b. Rubbish Applications Development and Joint Application Development
+c. Re-use Applications Development and Java Application Development
+d. Rapid Applications Development and Joint Application Development
+e. Re-use Applications Development and Joint Application Development
+Rubbish Applications Development and Java Application Development
+
+(Before mới đúng nhé)
+B
+47 After established requirements, you must understand who the users are and what their goals are in using the product.
+a. True
+b. False
+
+A
+48 Looking at others' designs provides useful inspiration and encourages designers to consider alternative design solutions, which is key to effective design.
+a. True
+b. False
+
+A
+49 The interaction design lifecycle model is complementary to lifecycle models from other fields.
+a. True
+b. False
+
+B
+50 Usability criteria, technical feasibility, and users' feedback on prototypes should not be used to choose among alternatives.
+(should be)
+a. True
+b. False
+
+C
+51 Identifying needs and establishing requirements are to ...
+a. Understand as much as possible about the users, their work, and the context of that work
+b. Produce from the needs identified, a set of stable requirements that form a sound basis to move forward into thinking about design
+c. Both A and B
+d. Neither A nor B
+
+A
+52 A requirement is a statement about an intended product that specifies what it should do or how it should perform.
+a. True
+b. False
+
+A, C, E
+53 Aims of the requirement activity are to make the requirement ... (Choose 3)
+a. Specific
+b. Ambiguous
+c. Clear
+d. General
+e. Unambiguous
+
+A
+54 "A robot working in a car assembly plant should be able to accurately place and weld together the correct pieces of metal." This statement is a/an ...
+a. Functional requirement
+b. Non-functional requirement
+c. Cannot specify
+d. Both A and B
+
+B
+55 "A word processor must be able to run on a variety of platforms such as PCs, Macs, and Unix machines". This statement is a/an ...
+a. Functional requirement
+b. Non-functional requirement
+c. Cannot specify
+d. Both A and B
+
+The overall purpose of data gathering in the requirements activity is to collect sufficient, relevant, and appropriate data so that a set of stable requirements can be produced
+--> phải là "Data gathering"
+--> B
+56 The overall purpose of data analyzing in the requirements activity is to collect sufficient, relevant, and appropriate data so that a set of stable requirement can be produced.
+a. True
+b. False
+
+B
+57 Observation of participant in their natural setting is ...
+a. Studying documentation
+b. Direct observation
+c. Indirect observation
+d. Researching similar product
+
+
+- Indirect observation - Diaries and interaction logging are USED LESS often within the requirements activity
+- Studying documentation - Manuals and other documentation are a good source of data
+- Researching similar products - talked about looking at similar products in order to generate alternative designs
+
+(SGK: Diaries and interaction logging are used less often within the requirements activity where a new product is under development.)
+
+--> "use less" mới đúng
+
+B
+58 Diaries and interaction logging are used more often within the requirements activity.
+
+a. True
+b. False
+
+D
+59 What is the approach that emerged from the ethnographic approach to data gathering?
+a. Study documentation
+b. Observation
+c. Questionnaire
+d. Contextual inquiry
+
+A
+60 Although the focus of use - cases is specifically on the interaction between the user and a software system, the stress is still very much on the user's perspective, not the system's.
+a. True
+b. False
+
+(SGK: Essential use cases were developed by Constantine and Lockwood (1999) to combat what they see as the limitations of both scenarios and use cases as described above.)
+A
+Essential use - cases were developed to combat the limitations of both scenarios and use cases.
+a. True
+b. False
+
+(SGK: Task analysis is used mainly to investigate an existing situation, not to envision new products. It is used to analyze the underlying rationale and purpose of what people are doing: what are they trying to achieve, why are they trying to achieve it, and how are they going about it?)
+-> "use mainly to investigate an existing situation"
+B
+62 Task analysis is used mainly to envision new products, not to investigate an existing situation.
+a. True
+b. False
+
+Hierarchical Task Analysis
+A
+63 What is HTA?
+a. Hierarchical Task Analysis
+b. Hierarchical Technical Analysis
+c. Human Technology Analysis
+d. Human Task Analysis
+e. Hierarchical Technology Analysis
+Human Technical Analysis
+
+HTA focuses on the physical and observable actions that are performed, and includes looking at actions that are not related to software or an interactive product at all. The starting point is a user goal. This is then examined and the main tasks associated with achieving that goal are identified. Where appropriate, these tasks are subdivided into subtasks, and then subtasks can be divided further - down to low levelsteps of the interaction which may be represented in a screen sketch.
+
+D
+64 What HTA involves?
+a. Physical and observable actions that are performed
+b. Looking at actions that are not related to software
+c. Breaking a task down into subtasks
+d. All of the others
+e. None of the others
+
+A
+65 Getting the requirements right is crucial to the success of the interactive product.
+a. True
+b. False
+
+D (check trong file doc)
+66 What is meant by prototype?
+a. A piece of software that crashes every few minutes
+b. A paper - based outline of a screen or set of screens
+c. A full representation of a design that allows users to interact with it and to explore its suitability.
+d. None of the others
+
+B
+67 What is not the benefit of prototypes?
+a. Useful aid when discussing ideas with stakeholders
+b. Show customer every functions of software
+c. A communication device among team members
+d. Effective way to test out ideas
+
+E (B giống E mà)
+68 Match the name and definition of prototyping types:
+1. Low-fidelity prototyping
+2. High-fidelity prototyping
+3. Evolutionary prototyping
+4. Throw away prototyping
+A. Does not look very much like the final product
+B. Uses the prototypes as stepping stones towards the final design
+C. Uses materials that would be expected to be in the final product, look more like the final thing.
+D. Involving a prototype into the final product
+a. 1 - A; 2 - B; 3 - C; 4 - D;
+b. 1 - A; 2 - C; 3 - D; 4 - B;
+c. 1 - C; 2 - B; 3 - D; 4 - A;
+d. 1 - C; 2 - A; 3 - B; 4 - C;
+e. 1 - A; 2 - C; 3 - D; 4 - B;
+1 - C; 2 - D; 3 - A; 4 - B;
+
+A
+69 What is concerned with transforming needs and requirements into a conceptual model?
+a. Conceptual design
+b. Conceptual object
+c. Conceptual interaction
+d. Conceptual representation
+
+(SGK:
+Key guiding principles of conceptual design are:
++ Keep an open mind but never forget the users and their context.
++ Discuss ideas with other stakeholders as much as possible.
++ Use low-fidelity prototyping to get rapid feedback.
++ Iterate, iterate, and iterate
+)
+
+C, D
+70 What are the key principles of conceptual design? (Choose 2)
+a. Keep an open mind and forget the users and context
+b. Discuss ideas with manager as much as possible
+c. Use low-fidelity prototyping to get rapid feedback
+d. Iterate, iterate, and iterate
+
+C (ok)
+71 Match the types of interface with the definitions
+1. WIMP/GUI interface
+2. Shareable interface
+3. Tangible interface
+4. Advanced graphical interface
+A. This interface uses windows, icons, menus, and a pointing device.
+B. A form of sensor-based interaction, where blocks or other physical objects are moved around
+C. Include multimedia presentations, virtual environments, and interactive animations.
+D. This is intended to used by a group of people
+a. 1 - A; 2 - B; 3 - C; 4 - D;
+b. 1 - B; 2 - A; 3 - D; 4 - C;
+c. 1 - A; 2 - D; 3 - B; 4 - C;
+d. 1 - C; 2 - D; 3 - A; 4 - B;
+e. 1 - D; 2 - C; 3 - B; 4 - A;
+1 - B; 2 - D; 3 - C; 4 - A;
+
+(SGK: Design is about making choices and decisions, and the designer must strive to balance environmental, user, data, and usability and user experience requirements with functional requirements.)
+==> "functional" mới đúng nha
+B
+72 Design is about making choices and decisions, and the designer must strive to balance environmental, user, data, and usability requirements with non-functional requirements.
+a. True
+b. False
+
+(SGK: Scenarios can be used to model existing work situations, but they are more commonly used for expressing proposed or imagined situations to help in conceptual design)
+D
+73 What is commonly used for expressing proposed or imagined situations to help in conceptual design?
+a. Prototype
+b. Observation
+c. Contextual Model
+d. Scenario
+e. Questionnaire
+Interview
+
+C (confirm)
+74 A sequence of actions or events that the user and the system go through to achieve a task is called a ...
+a. State machine
+b. Scenarios
+c. Storyboard
+d. Function
+
+A (ok)
+75 Prototyping may be low fidelity - such as (A), or high fidelity - such as (B). What to fill in (A) and (B), respectively?
+a. Paper - based, software - based
+b. Human - based, computer - based
+c. Computer - based, Human - based
+d. Software - based, Paper - based
+
+(SGK:
++ High-fidelity prototypes may be vertical or horizontal.
++ Low-fidelity prototypes are quick and easy to produce and modify and are used in the early stages of design.
+)
+--> B, C là sai
+B, C
+76 Choose the statements which are NOT correct in the following list: (Choose 2)
+a. High - fidelity prototypes may be vertical or horizontal
+b. Low - fidelity prototypes may be vertical or horizontal
+c. High - fidelity prototypes are quick and easy to produce and modify and are used in the early stages of design
+d. Low - fidelity prototypes are quick and easy to produce and modify and are used in the early stages of design
+
+A, D
+77 What are the aspects of the design activity? (Choose 2)
+a. Conceptual design
+b. Interaction design
+c. Graphical design
+d. Physical design
+
+(SGK:
++ There are two aspects to the design activity: conceptual design and physical design.
++ Conceptual design develops an outline of what people can do with a product and what concepts are needed to understand how to interact with it, while physical design specifies the details of the design such as screen layout and menu structure.
+)
+B, C
+78 Choose the correct statements in the following list: (Choose 2)
+a. Physical design develops an outline of what people can do with a product and what concepts are needed to understand how to interact with it.
+b. Physical design specifies the details of the design such as screen layout and menu structure.
+c. Conceptual design develops an outline of what people can do with a product and what concepts are needed to understand how to interact with it.
+d. Conceptual design specifies the details of the design such as screen layout and menu structure.
+
+("Initial Conceptual Model" mới đúng nha)
+B
+79 An initial physical model may be expanded by considering which functions the product will perform (and which the user will perform), how those functions are related, and what information is required to support them.
+a. True
+b. False
+
+D (đúng D rồi)
+80 What is NOT an approach to develop an initial conceptual model?
+a. Interface metaphors
+b. Interaction types
+c. Interface types
+d. Interaction metaphors
+
+D
+81 What are good reasons for investing in evaluation?
+a. Designers get feedback about their early design ideas
+b. The wide diversity of interactive products gives rise to a range of features that evaluators must be able to evaluate.
+c. Major problems are fixed before the product goes on sale
+d. Designer focus on real problems rather than debating what each other like or dislike about the product
+
+(SGK:
+Hence, there are good reasons for companies investing in evaluation. Designers can focus on real problems and the needs of different user groups rather than debating what each other likes or dislikes.)
+
+A
+82 At what stage in the product lifecycle evaluation takes place depends on the type of product.
+a. True
+b. False
+
+C, E, F (chuẩn rồi ae nhé)
+83 What are not evaluation approaches? (Choose 3)
+a. Usability testing
+b. Field studies
+c. Design evaluation
+d. Analytical evaluation
+e. Analytical testing
+f. Usability studies
+
+NOTE: A ? User-centered design ?
+84 Evaluation and design are very closely integrated in user - centered design.
+a. True
+b. False
+
+A
+87 Evaluation is a process for collecting information about users' or potential users' experiences when interacting with a prototype, computer system, or a design artifact, in order to improve its design.
+a. True
+b. False
+
+A
+88 In order to evaluate the wide range of products currently being developed, evaluators must be creative.
+a. True
+b. False
+
+C
+89 The sequence of links on a web site are generally best evaluated in ...
+a. University
+b. Library
+c. Laboratory
+d. Office
+NO INFO
+
+A
+90 Without evaluation, designer cannot be sure that their design is usable by the target user population, and that it is what users want.
+a. True
+b. False
+NO INFO
+
+C
+91 What is an approach to evaluation that does not involve end - users?
+a. Controlled experiment
+b. Field Study
+c. Analytical evaluation
+d. Formative evaluation
+e. Summative evaluation
+
+D
+92 What is a study that is done in a natural environment such as at home, as opposed to a study in a controlled setting such as a laboratory
+a. Controlled experiment
+b. User studies
+c. Usability studies
+d. Field studies
+e. Heuristic evaluation
+
+B
+93 What is an approach to evaluation in which knowledge of typical users is applied, often guided by heuristics, to identify usability problems?
+a. Formative evaluation
+b. Heuristic evaluation
+c. Predict evaluation
+d. Usability laboratory
+e. Analytical evaluation(not involve end-user)
+
+C
+94 What is an approach to evaluation in which theoretically based models are used to predict user performance?
+a. Formative evaluation
+b. Heuristic evaluation
+c. Predictive evaluation
+d. Summative evaluation
+e. User testing
+User Studies
+
+E
+95 What is an evaluation that is done when the design is complete to assess whether it meets required standards?
+a. Analytical evaluation( not involve end-user)
+b. Controlled experiments
+c. Usability laboratory
+d. User testing
+e. Summative evaluation
+Formative evaluation
+
+C
+96 What is an evaluation that involves users directly, either in their natural environment, or in the laboratory?
+a. User evaluation
+b. Field Study
+c. User studies
+d. User testing
+
+C
+97 What is an evaluation that is performed to examine the usability of a design or system?
+a. Usability laboratory
+b. User studies(either in the laboratory, nature env)
+c. Usability study
+d. Usability testing
+
+A
+98 What is an evaluation approach to evaluation that involves measuring users' performance and evaluating their satisfaction with the system in question on certain task in a laboratory setting?
+a. Usability testing
+b. User testing
+c. Usability study (examine the usability)
+d. Controlled experiment
+
+B
+32. Efficiency is the of usability goals?
+A. False
+B. True
+Usability goals: efficiency, effectiveness, ultility, learnability, safety, memorability <P-27>
+
+D
+29. Which is NOT one of interface types in HCI:
+A. GUI interface
+B. Advanced graphical interface
+C. Tangible interface
+D. End-user interface
+E. Shareable interface
+
+A
+36. Which goals are concerned with assessing how useful or productive a system is from its own perspective?
+A. Usability goals
+B. User experience goals
+User experience goals focus on aesthetically
+
+D
+43. _____ is an evaluation that is done during design to check products meet requirement
+A. Field study
+B. Controlled experiment
+C. Analytical evaluation
+D. Formative evaluation
+
+C
+In usability testing, field observations may be used to
+A. identify errors
+B. explain errors
+C. provide contextual understanding.
+D. calculate performance times
+NO INFO
+
+A
+Involving users in the design process helps with expectation management and feelings of ownership, but how and when to in
+A. True <P-344>
+B. False
+
+C
+Select the type of data is primarily collected in field study
+A. Quantitative data
+B. Statistical numbers
+C. Qualitative data
+D. User's performance on typical tasks
+Quantitative is collected in usability testing.
+Data collected from field study: video, audio, field notes (which are qualitative) <P-369>
+
+B
+Users have negative emotions with user's expectations are not met.
+A. False
+B. True
+<P-113, 114>
+
+D
+Which is emergent from data, dependent on observation framework if used
+A. None of the others
+B. Categorizing data
+C. Looking for critical incidents
+D. Recurring patterns or themes
+<P-222> possible themes or patterns will emerge
+
+A
+The term 'affordance' refers to the relationship between the actor (for our purposes the user) and the world signifying possibility for action
+A. FALSE
+B. TRUE
+<P-34> refers to an attribute of an object that allows people how to use it.
+
+B
+Which is NOT an example of asynchronous computer-mediated communication ?
+A. Video conferencing
+B. All of above
+C. Chat rooms
+D. Video phones
+https://en.wikipedia.org/wiki/Computer-mediated_communication
+
+B
+Software Engineering is the field of usability engineering lifecycle?
+A. False
+B. True
+(Include
+Human Computer Interaction
+Software Engineering
+Software Interface Designing)
+
+E
+What is a study that is performed in a laboratory which is controlled by the evaluator?
+A. Usability experiment
+B. User studies
+C. Usability study
+D. Field study (done in natural env)
+E. Controlled experiment
+F. Field experiment
+<P-449>
+
+D
+Experiments test hypotheses to discover new knowledge by investigating the relationship between things
+A. Three things
+B. One thing
+C. Nothing
+D. Two or more things
+<P-332> Experiments...The aim of...to test whether one is better tan the other
+
+A
+The first step in qualitative analysis is to gain an overall impression of the data and to start looking for patterns
+A. True
+B. False
+<P-222> As with qualitative analysis,....
+
+B
+Which of the following is not true
+A. Predictive models provide a way of evaluating products or designs without directly involving users <P-319>
+B. Predictive models is usefulness limited to systems with predictable tasks - e.g., telephone answering systems, mobiles, cell phones, e
+C. Predictive models is based on expert error-free behavior <P-397>
+D. Predictive models is more expensive than user testing
+B is false cause predictive models are used to systems with limited functionality <P-397>
+
+B
+How many basic rules Sacks et al. (1978) work on conversation analysis describe?
+A. 4
+B. 3
+C. 2
+D. 1
+
+Rule 1: the current speaker chooses the next speaker by asking a question, inviting an opinion, or making a request.
+Rule 2: another person decides to start speaking.
+Rule 3: the current speaker continues talking
+<P-88>
+
+C
+Observations are used to
+A. build a consensus view. (focus groups)
+B. reach a wider population (questionnaires)
+C. understand the context of task performance.
+
+<P-279> observations to understand the context, interviews to provide different perspective, questionaires to reach a wider population, focus groups to build a consensus view.
+
+A
+Xerox Star first WIMP and rise to______?
+A. GUI
+B. Command line
+<P-131> ...led to the birth of WIMP and subsequently the GUI
+
+A
+Windows were invented to overcome physical constraints of a computer display?
+A. True
+B. False
+<P-132>
+
+B
+____ is a process to attribute human qualities to objects.
+A. Metaphor
+B. Anthropomorphism
+C. Personality
+D. Analogy
+<P-119>...is the propensity people have to attribute human qualities to object
+
+B
+(Choose 1 answer)
+Initial processing steps of observation is
+A. None of the others
+B. Expansion of notes, Transcription of recordings. Synchronization between data recordings.
+C. Transcription of recordings. Expansion of notes (interview)
+D. Clean up data. Filter into different data sets (Initial Processing steps of questionaires)
+<P-211> Initial data processing include writing up and expanding notes,... synchronizing different data recordings.
+
+A
+Emotional interaction is concerned with how we feel and react when interacting with technologies?
+A. True
+B. False
+<P-107>
+
+B
+In a nutshell, what do a conceptual model provide ?
+A. A frame work of general concepts and their interrelations
+B. All of above
+C. A working strategy
+<P-42> a conceptual model provides a working strategy and framework of general...
+
+B
+Instructing type describes..?
+A. Design principles
+B. How users carry out their tasks by telling the system what to do
+C. Process
+D. None of above
+<P-47> This type off interaction describes how users carry out their tasks by telling...
+
+A
+Good understanding of the attention grabbing mechanisms allows the designer to design better interfaces.
+A. TRUE
+B. FALSE
+NO INFO
+
+D
+Why do the designers evaluate their product?
+A. Check that users can use the product
+B. Check that users like the product.
+C. Designer can get feedback about their early design ideas
+D. All of above
+<P-330>
+
+A
+Usability is broken down into___
+A. 6 goals
+B. 5 goals
+C. 4 goals
+D. 7 goals
+<P-26>
+effective to use (effectiveness)
+efficient to use (efficiency)
+safe to use (safety)
+having good utility (utility)
+easy to learn (learnability)
+easy to remember how to use (memorability).
+
+B
+Environmental requirements are used to describe what the product should do.
+A. True
+B. False
+<P-272>
+- Functional requirements capture what the product should do.
+- Environmental requirements refer to the circumstances in which the interactive product will operate
+- Data requirements capture the type, volatility, size/amount, persistence, accurac
+
+D
+Which is the least technical way of recording data
+A. Audio plus still camera
+B. Video
+C. Webcam
+D. Notes plus still camera (is the least technical and most flexible)
+<P-178>
+
+A
+Which of following is TRUE:
+A. Low-fidelity prototype is useful for identifying market requirements while High-fidelity prototype is not (<P-298> they are for exploration only)
+B. High-fidelity prototype addresses screen layout issues (<P-301> Low fidelity address screen layout issues)
+C. All of the others
+
+D
+In which kind of data recording that disturbance to user is low, but microphone needs to be positioned
+A. None of the others
+B. Video
+C. Notes plus camera
+D. Audio plus camera
+<P-178> Suy luận ra
+
+D
+What is not research and design issues
+A. Whether to use 2D or 3D representational format
+B. What form of navigation
+C. Whether to use animation and/or interactivity
+D. Whether to use icon
+<P-148> Key design issues include whether to use animation,.... to use 2D or 3D,what forms of navigation
+
+B
+Learnability is the of usability goals?
+A. False
+B. True
+<P-26> Usability goals include effectiveness, effiency, safety, ultility, learnability, memorability.
+
+C
+What is one of the tasks which quantitative data analysis for interaction design usually involves?
+A. Calculating percentages
+B. Calculating averages
+C. All of others
+<P-210> Before adding a set of numbers together, finding an average, calculating a percentage...
+
+A
+Optimizing the interaction between users and interactive products require taking into account a number of interdependent fact
+A. Type of activity, Cultural differences, User groups, Context of use
+B. Materials, Cultural differences, Feedback, Context of use(No material)
+C. Cultural differences, User groups, Feedback(No feedback)
+<P-35> require taking context of use, types of acitivity, accessibility, cultural differences, and user groups.
+
+A
+Which refers to how much its findings can be generalized
+A. Scope
+B. Biases (occurs when the results are distorted)
+C. Validity (concern with the evaluation method measures what it ist ended to measure)
+D. Reliability(how well it produces the same results)
+<P-355>
+
+B
+Which is new graphical element?
+A. Image
+B. Docks
+C. Picture
+D. Text
+<P-131> These include toolbars and docks...
+
+A
+Which kind of user involvement has constant input but lose touch with the rest of user group?
+A. Full-time
+B. Part-time ( involvement has patchy input and very stressful)
+C. Long term(involvement is consistent)
+D. Short term(involvement is inconsistency across project life)
+
+B
+When designing coordination mechanisms it is not important to consider how socially acceptable they are to people?
+A. True
+B. False
+
+B
+A main benefit of developing a conceptual design is to allow people to interact with system in the way that familiar to them?
+A. No
+B. Yes
+
+E
+(Choose 1 answer)
+What is not the human-centered design activity?
+A. To understand and specify the context of use
+B. To specify the user and organizational requirements
+C. To produce design solutions.
+D. To evaluate designs against requirements
+E. None of above
+
+D
+Web advertising is often
+A. Polite
+B. Intrusive
+C. Pervasive
+D. Intrusive and Pervasive
+
+<addition:
+Web advertising has become pervasive and invasive. Advertisers realized how effective flashing and animated ads were for promoting their products,>
+
+B
+One cannot design user experience, only design for user experience?
+A. No
+B. Yes
+
+C
+Empirical evidence suggests that on average 5 evaluators identify
+A. 70-75%
+B. 65-70%
+C. 75-80%
+D. 80-85%
+<addition
+Empirical evidence suggests that on average 5 evaluators identify 75-80% of usability problems|Analytical evaluation:Nielsen's heuristics>
+
+C
+What is true about manipulating
+A. Moving through a virtual environment or a physical space
+B. Interacting with the system as if having a conversation
+C. Interacting with objects in a virtual or physical space by manipulating them
+D. Issuing commands using keyboard and function keys and selecting options via menus
+
+A
+Long term member of the design team
+A. consistent, but lose touch with users
+B. patchy input, and very stressful (Part-time)
+C. inconsistent across project life( Short term)
+D. constant input, but lose touch with users(Full - time)
+
+NOTE: A (K search ra)
+No need to get balance between human and system control?
+A. False
+B. True
+
+B
+Which of IRB form asks "Who will be the subject?"
+A. Risks and Benefits
+B. Subject selection
+C. Abstract
+D. Procedures
+
+D
+_____refers to an attribute of an object that allows people to know how to use it.
+A. Constraints ( ==> The design concept of constraining refers to determining ways of restricting the kinds of user interaction that can take place at a given moment)
+B. Visibility (==>The more visible functions are, the more likely it is that users will be able to know what to do next.)
+C. Consistency( => . This refers to designing interfaces to have similar operations and use similar elements for achieving similar tasks. I)
+D. Affordances
+E. Feedback( ==> Related to the concept of visibility is feedback. This is best illustrated by an analogy to what everyday life would be like without it.)
+
+A
+Which concerns how the environment in which an evaluation is conducted influences or even distorts the
+A. Ecological validity
+B. Reliability
+C. Biases (result are distorted)
+D. Scope
+
+A
+What is the starting point of an HTA?
+A user goal.
+B System functionality.
+C An available service
+C User input.
+<theo key 1k>
+
+b
+Conversation can take a variety of forms?
+A. False B. True
+<in addition
+ex.3 Face-to-Face Conversations
+4.4 Remote Conversations>
+
+a
+Wearable interface designed for more than one person to use?
+(Shareable interface)
+(Wearable is ? )
+A. False
+B. True
+
+a
+In usability testing, user satisfaction is evaluated using
+A. questionnaires, interviews
+B. interviews
+C. questionnaires
+D. None of the others
+<theo key trong word>
+
+D
+1. Which is not one of main steps in simple qualitative analysis?
+
+A. Identifying recurring patterns or themes
+B. Categorizing data
+C. Looking for critical incidents
+D. Analyzing materials
+
+<addition
+Recurring patterns or themes- Emergent from data, dependent on observation framework if used •
+Categorizing data - Categorization scheme may be emergent or pre-specified •
+Looking for critical incidents - Helps to focus in on key events>
+
+A
+2. Which provide a way of thinking of about how to best support the activities users will be doing when using a product and service?
+
+A. Interaction types
+
+B. Developer experience
+
+C. Nothing
+
+D. Context of use, types of activity, cultural differences. and user groups
+
+D
+3. Which is not an example of low-fidelity prototype?
+
+A. Wizard of Oz
+B. Storyboard
+C. Sketching
+D. Prototyping with index cards
+
+A
+4. In which kind of data recording that analysis criterion is "Critical discussions can be identified"
+
+A. Audio plus camera
+B. None of the others
+C. Video
+D. Notes plus camera
+
+A
+5. Heuristics are based on common-sense knowledge and usability guidelines?
+
+A. Yes
+B. No
+
+A
+8. Which of the following advise us to follow platform conventions
+
+A. Consistency and standards
+B. User control and freedom
+C. Match between system and the teal world
+D. Visibility of system status
+
+C
+9. Which is concerned with whether the evaluation method measures what it is intended to measure
+
+A. Biases( ==>Bias occurs when the results are distorted)
+B. Reliability(==>The reliability or consistency of a method is how well it produces the same results on separate occasions under the same circumstances.)
+C. Validity
+D. Scope( = > The scope of an evaluation study refers to how much its findings can be generalized)
+
+B
+10. Only one evaluation approach is used in evaluation study?
+
+A. Yes
+B. No
+<in addition
+Three main evaluation approaches are: usability testing, field studies, and analytical evaluation.>
+
+A
+12. _____ is an approach to evaluation that does not involve end-users
+
+A. Analytical evaluation
+B. Formative evaluation (done during design to check that the product fulfils requirements and continues to meet users' needs)
+C. Controlled experiment (conducted to test hypotheses about some aspect of an interface or other dimension)
+D. Field study (study that is done in a natural environment such as in a person's home)
+
+C
+13. _____ has traditionally been about designing efficient and effective systems?
+
+A. Process
+B. Software
+C. HCI
+D. Algorithm
+
+A
+14. Performance requirements are used to describe what the product should do.
+(Functional requirements)
+A. False
+B. True
+
+A
+15. Contextual inquiry rests on what main principles:
+
+A. Context, partnership, interpretations and focus.
+
+B. Context, partnership and focus.
+
+C. Context, partnership and interpretations
+
+D. Context, partnership, interpretations, visible and focus.
+<adition trong sach
+Contextual inquiry rests on four main principles: context, partnership, interpretation, and focus.>
+
+B
+17. Why designer should not apply the George Miller's theory , theory of how much information people can remember, when designing the user interface?
+
+A. The user interface of software is often less than 7 functions
+
+B. People recognize things much better than being able to recall things.
+
+C. All of the others
+
+D. People's immediate memory capacity is more than 7 items
+< theo key trong bản word>
+
+A
+18. Which is the third activity of interaction design
+
+A. Building interactive versions of the designs
+B. Developing alternative designs(second)
+C. Identifying needs and establishing requirements(first)
+D. Evaluating designs(four)
+
+D
+19. Iterative design is
+
+A. directly studying cognitive, behavioural, anthropomorphic & attitudinal characteristics ( ==> Early focus on users and tasks.>
+
+B. users' reactions and performance to scenarios, manuals, simulations & prototypes are observed, recorded and analysed ( == > Empirical measurement.)
+
+C. All of the others
+
+D. Iterative design: when problems are found in user testing, fix them and carry out more tests
+
+<addition
+When problems are found in user testing, they are fixed and then more tests and observations are carried out to see the effects of the fixes. This means that design and development is iterative, with cycles of design-test-measure-redesign being repeated as often as necessary.>
+
+C
+20. Initial processing steps of questionnaires is
+
+A. Expansion of notes, Transcription of recordings, Synchronization between data recordings.
+
+B. Transcription of recordings, Expansion of notes
+
+C. Clean up data, Filter into different data sets
+
+D. None of the others
+
+A
+21. Functionality is the goal of interaction design?
+
+A. False
+B. True (Usability)
+
+A
+23. Which is NOT the Bødker's roles that suggested for scenarios:
+
+A. As a basis for the early design(must be overall design)
+
+B. For technical implementation
+
+C. As a means of cooperation within design teams
+
+D. As a means of cooperation across professional boundaries
+< theo key trong bản word>
+
+D
+26. Why should we build prototypes in design process?
+
+A. Evaluation and feedback are central to interaction design
+
+B. Stakeholders can see, hold, interact with a prototype more easily than a document or a drawing
+
+C. Team members can communicate effectively
+
+D. All of above
+
+<addition
+prototyping the designs so that they can be communicated and assessed>
+
+A
+27. Optimizing the interaction between users and interactive products require taking into account a number of interdependent factors, including ____
+
+A. Type of activity, Cultural differences, User groups, Context of use
+
+B. Materials, Cultural differences, Feedback. Context of use
+
+C Cultural differences, User groups, Feedback
+
+<addition
+Optimizing the interaction between users and interactive products requires taking into account a number of interdependent factors, including context of use, types of activity, accessibility, cultural differences, and user groups>
+
+C
+28. Who said "My goal was to design Wufoo to feel like something Fisher Price would make."?
+
+A. Eistein
+B. David Engor
+C. Kevin Hale. Wufoo director
+D. Petr Mitrichev
+< serach internet>
+
+C
+31. Which basic activity in Interaction Design creates interactive versions of the design to be built?
+
+A. Identifying needs and establishing requirements(first)
+B. Developing alternative designs(second)
+C. Building interactive versions of the designs(third)
+D. Evaluating designs(four)
+
+A
+34. Card-base prototype can be generated from use case output from the requirement activity
+
+A. True
+B. False
+<addition
+we illustrate how prototypes may be used in design, and specifically demonstrate one way in which prototypes may be generated from the output of the requirements activity: producing a storyboard from a scenario and a card-based prototype from a use case>
+
+C
+35. Which of the following advise us to speak the user language, with word, phrase and concepts similar to the users
+
+A. User control and freedom
+B. Visibility of system status
+C. Match between system and the real world
+D. Consistency and standards
+
+A
+37. Soaps are good to watch for observing non-verbal behavior as the actors often exaggerate their gestures and facial expressions to convey their emotion?
+
+A. True
+B. False
+<theo key bản word:
+Soaps are good to watch for observing non-verbal behavior as the actors often exaggerate their gestures and facial expressions to convey their emotions. It is easy to work out what kind of scene is happening from the actors' posture, body movements, gestures, and facial expressions. In contrast, actors on the radio use their voice a lot more, relying on intonation and sound effects to help convey emotions. When chatting online, people use emoticons and conventionally accepted abbreviations, e.g. LOL.>
+
+D
+39. Which is NOT a type of task descriptions?
+
+A. Scenarios
+B. Use cases
+C. Essential use cases
+D. None of above
+<def
+There are different flavors of task descriptions, and we shall introduce three of them here: scenarios, use cases, and essential use cases>
+
+A
+40. Usability engineering is software development life cycle model?
+
+A. False
+B. True
+
+<addition
+The process of writing down formal, verifiable - and hence measurable - usability criteria is a key characteristic of an approach to interaction design called usability engineering>
+
+A
+41. Perception is ____?
+
+A. How information acquired from the environment
+B. A kind of algorithm
+C. Cognitivethinking
+D. None of the others
+<addition
+Perception refers to how information is acquired from the environment, via the different sense organs - eyes, ears, fingers - and transformed into experiences of objects, events, sounds, and tastes (Roth, 1986)>
+
+D
+43. _____ is an evaluation that is done during design to check products meet requirement
+
+A. Field study (study that is done in a natural environment such as in a person's home)>
+B. Controlled experiment (conducted to test hypotheses about some aspect of an interface or other dimension)
+C. Analytical evaluation( is an approach to evaluation that does not involve end-users)
+D. Formative evaluation
+
+D
+44. What is a user-centered approach?
+
+A. Early focus on users and tasks.
+B. Empirical measurement.
+C. Iterative design
+D. All of above
+<def
+Early focus on users and tasks. This means first understanding who the users will be by directly studying their cognitive, behavioral, anthropomorphic, and attitudinal characteristics. This requires observing users doing their normal tasks, studying the nature of those tasks, and then involving users in the design process.
+
+2. Empirical measurement. Early in development, the reactions and performance of intended users to printed scenarios, manuals, etc., is observed and measured. Later on, users interact with simulations and prototypes and their performance and reactions are observed, recorded, and analyzed.
+
+3. Iterative design. When problems are found in user testing, they are fixed and then more tests and observations are carried out to see the effects of the fixes. This means that design and development is iterative, with cycles of design-test-measure-redesign being repeated as often as necessary>
+
+C
+46. Memorability refers to ____?
+
+A. How easy the system is to learn to use
+B. Algorithm
+C. How easy the system is to remember to use
+D. Cognitive thinking
+
+<in addition
+Memorability refers to how easy a product is to remember how to use, once learned. This is especially important for interactive products that are used infrequently>
+
+D
+47. Interviews are used to
+
+A. build a consensus view. (focus group)
+B. reach a wider population (questionnaire)
+C. Understand the context of task performance. (Observations)
+D. target specific user groups
+
+< trong sách là focus group--> ae xem lại)
+
+A
+49. Which of the following is true about Nielsen's heuristics:
+
+A. Recognition rather than recall
+B. Recall rather than recognition
+C. Recognition same as recall
+D. All of the others
+<theo key 1000>
+
+D
+50. What is interaction designed for more than one person to use?
+
+A. Wearable interface
+B. Tangible interface
+C. Graphic User interface
+D. Shareable interface
+
+A
+Which is NOT a level of emotional design model?
+A. Ideology level
+B. Behavioral level
+C. Visceral level
+D. Reflective level
+
+D
+Which provides a way of thinking about how to best support the activities done by users when they use a product or a service?
+A. Interaction types
+B. Nothing
+C. Developer experience
+D. Context of use, types of activity, cultural differences, and user groups
+
+B
+Which is not an example of low-fidelity prototype?
+A. Storyboard
+B. Prototyping with index cards
+C. Wizard of OZ
+D. Sketching
+
+B
+You can design a user experience.
+A. True
+B. False
+
+A
+The main benefit of instructing of interaction types is to support quick and efficient interaction.
+A. True
+B. False
+
+B
+Nielsen's heuristics: match between system and _____
+A. system
+B real world
+C. users
+D. people
+
+A
+Designing usable interactive products requires considering...
+1. Who is going to be using them
+2. What they are going to be used
+3. How they are going to be used
+4. Where they are going to be used
+A. 1, 3, 4
+B. 1, 2, 3, 4
+C. 1, 2, 4
+D. 1, 2, 3
+E. 2, 3, 4
+
+(DEF: Designing interactive products requires considering
+-who is going to be using them,
+- how they are going to be used
+-where they are going to be used.)
+
+D
+Which is data that is in the form of numbers, or that can easily be translated into numbers
+A. Quality data
+B. All of the others
+C. Qualitative data
+D. Quantitative data
+
+C
+What is the designer's model?
+A. The model the user wants the system to be
+B. The model the designer understands how the system works
+C. The model the designer has of how the system should work
+D. The model the user understands how the system works
+
+D
+Learn ability is...?
+A. Cognitive
+B. User experience
+C. Algorithm
+D. How easy the system is to learn to use
+
+A
+In usability testing, user satisfaction is evaluated using
+A. questionnaires & interviews
+B. interviews
+C. questionnaires
+D. None of the others
+
+B
+Scenarios are NOT a type of task descriptions?
+A. True
+B. False
+
+B
+Cognitive tracing involves internally manipulating items?
+A. True
+B. False
+
+C
+Heuristic evaluation was develop by
+A. Sanchez
+B. Darwin
+C. Jacob Nielsen
+D. Rogers
+
+A
+Environmental requirements are used to describe what the product should do
+A. False
+B. True
+
+C
+GUI is?
+A. Same basic building blocks as WIMP but more varied
+B. Graphical User Interface
+C. All of above
+
+B
+Many software applications now exist to support coordination, notably project management system?
+A. False
+B. True
+
+B
+Arrange the steps of theory action in the correct order
+1. Specify an action sequence
+2. Form an intention
+3. Establish a goal
+4. Interpret the state
+5. Perceive the system state
+6. Execute an action
+7. Evaluate the system state
+A. 3, 2, 1, 5, 6, 4, 7
+B. 3, 2, 1, 6, 5, 4, 7
+C. 3, 2, 1, 4, 5, 6, 7
+D. 1, 2, 3, 4, 5, 6, 7
+
+C
+Which is efficiency
+A. appropriate support? task coverage, information available
+B. how safe?
+C. performance measurements
+D. which functions are superfluous
+
+D
+Arrange the steps of interaction design in the correct order:
+1. Developing design
+2. Evaluating
+3. Building interactive design
+4. Identify needs
+A. 1, 2, 3, 4
+B. 1, 3, 2, 4
+C. 4, 3, 2, 1
+D. 4, 1, 3, 2
+
+B
+GUIs now highly inviting, emotionally appealing, and feel alive?
+A. False
+B. True
+
+A
+No need to get balance between human and system control?
+A. False
+B. True
+
+D
+Which is one of the things that graphical representations of quantitative data help in identifying?
+A. Patterns
+B. Outliers
+C. Overall view of the data
+D. All of above
+
+D
+What is the central concern of interaction design?
+A. To manage the interaction between human and computer
+B. To develop beautiful products
+C. To manage the process of designing products
+D. To develop interactive products that are usable
+
+B
+Which is the third key issues of data gathering
+A. Pilot studies
+B. Triangulation
+C. Setting goals
+D. The relationship with participants
+
+A
+Which is tertiary user
+A. affected by its introduction, or will influence its purchase
+B. occasional or via someone else
+C. frequent hands-on
+D. None of the others
+
+A
+Which is the first key issues of data gathering
+A. Setting goals
+B. The relationship with participants
+C. Pilot studies
+D. Triangulation
+
+D
+Which can be a useful alternative to toe taking and is less intrusive than video
+A. Audio plus still camera
+B. Webcam
+C. Video
+D. Notes plus still camera
+
+A
+Memory load is a method that baes on...?
+A. User
+B. Developer
+C. Memorable information
+D. Owner
+
+D
+How many evaluation approaches?
+A. 1
+B. 2
+C. 3
+D. 4
+
+A
+Usability testing involves recording performance of
+A. users doing typical tasks
+B. video & key presses are logged
+C. errors
+D. environmental settings
+
+B
+Which are a well established technique for collecting demographic data and users' opinions
+A. Observation
+B. Questionnaires
+C. Recording
+D. Interviews
+
+B
+Which occurs when the results are distorted
+A. Scope
+B. Reliability
+C. Biases
+D. Validity
+
+A
+What is NOT objection to the use of metaphors in interaction design?
+A. Too detail information
+B. Conflict with design principles
+C. Breaks the rules
+D. To constraining
+E. Limits the designer's imagination in conjuring up new paradigms and models
+
+D
+Which statement in interaction design is carried out for one of two purpose: to derive requirements for an interaction product , or to evaluate an interactive product under development?
+A. broadly speaking
+B. data gathering
+C. analysis
+D. All of above
+
+A
+Interaction types provide the way of thinking about how best to support the activities users will be doing when using a product or service
+A. True
+B. False
+
+C
+Part time member of the design team
+A. consistent, nut lose touch with users
+B. constant input, but lose touch with users
+C. patchy input, and very stressful
+D. inconsistent across project life
+
+D
+What is cognition?
+A. Designing structure of project
+B. Design principles
+C. Designing interactive products
+D. Something goes on in our heads when we carry out our everyday activities
+
+A
+Emotional interaction is concerned with how we feel and react when interaction with technologies?
+A. True
+B. False
+
+D
+How many kinds of menu are there?
+A. 2
+B. 3
+C. 1
+D. Many
+
+A
+Augmented reality is
+A. Views of the real world are combined with views of a virtual environment
+B. The real world
+C. Virtual representations are superimposed on physical devices and objects
+D. None of the others
+
+B
+The main purpose of DECIDE framework is _____
+A. Guiding designers how to develop interactive prototypes
+B. Guiding designers how to implement the evaluation
+C. Guiding designers how to write the design document
+D. Guiding designers how to build the conceptual model
+
+B
+All usability and user experience goals will be relevant to the design and evaluation of a interactive product being developed
+A. False
+B. True
+
+A
+Memory load is a method that bases on?
+A. Users
+B. Developer
+C. Memorable information
+D. Owner
+
+C
+Which represented applications, objects, commands and tools that were opened when clicked on?
+A. Menus
+B. Pointing device
+C. Icons
+
+A
+Rapid Application Development is software development lifecycle model?
+A. True
+B. False
+
+A
+Interaction design is concerned with designing interactive products to support the way people communicate and interact in their everyday and working lives.
+A. True
+B. False
+
+D
+Interface metaphors are commonly used as part of?
+A. How to test software products
+B. How to follow process of software engineering
+C. How to create quality user experiences
+D. Conceptual model
+
+D
+What is the designer's model?
+A. The model the user wants the system to be
+B. The model the designer understands how the system works
+C. The model the user understands how the system works
+D. The model the designer has of how the system should work
+
+A
+Sketching is not an example of low-fidelity prototype?
+A. False
+B. True
+
+A
+Which basic activity in Interaction Design is fundamental to a user - centered approach?
+A. Identifying needs and establishing requirements
+B. Developing alternative designs
+C. Building interactive versions of the designs
+D. Evaluating designs
+
+A
+Example quantitative data of observation is
+A. All of the others
+B. Demographics of participants. Time spent on a task. The number of people involved in an activity.
+C. Age, job role, years of experience. Responses to closed questions.
+D. None of the others
+
+B
+In which kind of data recording that flexibility of use is needs positioning and focusing camera lens, obtrusive
+A. None of the others
+B. Video
+C. Notes plus camera
+D. Audio plus camera
+
+B
+Dealing with constraints, such as gaining access to users or accommodating users' routines, is an important skill for designer to develop.
+A. True
+B. False
+
+B
+M of GOMS is
+A. Memory
+B. Methods
+C. Medium
+D. Minimize
+
+C
+Based on heuristics distilled from an empirical analysis of _____ usability problems
+A. 246
+B. 248
+C. 249
+D. 247
+
+B
+A less flexible form of coordination is to include a social policy of floor control?
+A. False
+B. True
+
+...
+How many cues?
+A. 3
+B. 2
+C. 1
+D. 4
+
+B
+Which of the following is not observation & interviews
+A. Video
+B. Categorized
+C. Logging
+D. Recordings
+
+A
+Using long-code numbers and upper case letters are the guideline for designing good error message ?
+A. False
+B. True
+
+C
+Which of IRB form asks "What precisely will be done to the subjects?":
+A. Subject selection
+B. Abstract
+C. Procedures
+D. Risks and Benefits
+
+A
+S of GOMS is
+A. Selection rules
+B. Sigma
+C. Small
+D. Science
+
+D
+Which is not one of techniques now used to change what they do or think?
+A. Pop-up ads
+B. Warning message
+C. Process
+D. All of above
+
+B
+Another person decides to start speaking is one of rules of Sacks et al?
+A. False
+B. True
+
+B
+Users notify others as opposed to being constantly monitored?
+A. False
+B. True
+
+B
+Annotating involves modifying external representation?
+A. True
+B. False
+
+C
+Example qualitative data of questionnaires is
+A. Records of behavior, description of a task as it is undertaken. Copies of informal procedures
+B. None of the others
+C. Responses to open questions, responses in "further comments" fields. Respondent's opinions
+D. Responses to open questions, video pictures, respondent's opinions
+
+A
+What is cognition?
+A. Something goes on in our heads when we carry out our everyday activities
+B. Designing structure of project
+C. Design principles
+D. Designing interactive products
+
+B
+Which of IRB form explains how your procedures accomplish the objects
+A. Risk and Benefits
+B. Confidentiality
+C. Abstract
+D. Procedures
+
+B
+FATAL, ERROR , INVALID are the guideline for designing good error message ?
+A. True
+B. False
+
+C
+Well-planned evaluations are driven by:
+A. Practical issues
+B. Ethical issues
+C. Goal
+D. Method
+
+A
+Good understanding of the attention grabbing mechanisms allows the designer to design better interfaces.
+A. TRUE
+B. FALSE
+
+C
+How many key issues that require attention for a data gathering session to be successful
+A. 2
+B. 3
+C. 4
+D. 5
+
+A
+Prototype is a limited representation of a design that allows users to interact with it and to explore its suitability.
+A. True
+B. False
+
+B
+Use cases are NOT a type of task descriptions?
+A. True
+B. False
+
+A
+There is no rigid border between conceptual design and physical design
+A. True
+B. False
+
+D
+Which of IRB form provide an that describes the purpose of this research and summarizes the strategies used ti protect human subject
+A. Subject selection
+B. Procedures
+C. Risks and Benefits
+D. Abstract
+
+B
+Which is the third level of "coding"
+A. Axial
+B. Selective
+C. Open
+D. None of the others
+
+A
+Products should be designed to provide adequate feedback to the users to ensure they know what to do next in their tasks.
+A. True
+B. False
+
+A
+Storyboard is not an example of low-fidelity prototype?
+A. False
+B. True
+
+A
+Select the most expensive data recording method
+A. Video recording
+B. Notes and pictures capturing
+C. Audio recording and pictures capturing
+D. Audio recording
+
+C
+Evaluation is needed in...?
+A. Data
+B. Environment
+C. Checking users can use and like product or not
+D. Functional
+
+B
+Instruction is the type of interaction where users have a dialog with system
+A. True
+B. False
+
+B
+Essential use cases are more detailed than use cases.
+A. True
+B. False
+
+C
+Usual raw data of questionnaires is
+A. Observer's notes, photographs, audio and video recordings, data logs.
+B. Written responses, online database
+C. Audio recordings, interviewer notes, video recordings
+D. None of the others
+
+C
+Usability testing controlled
+A. errors
+B. environmental settings
+C. typical users doing typical tasks
+D. time
+
+B
+What is the process order of interaction design?
+1. Identifying needs and establishing requirement for the user experience.
+2. Developing alternative designs that meet those requirement.
+3. Building interactive versions of the designs so that they can be communicated and assessed.
+4. Evaluating what is being built throughout the process and the user experience.
+A. 3-4-1-2
+B. 1-2-3-4
+C. 1-2-4-3
+D. 3-4-2-1
+
+A
+How many phases have a basis RAD lifecycle model?
+A. 5
+B. 6
+C. 7
+D. 8
+
+B
+A fundamental aspect of interaction design is to develop?
+A. Designing interactive products
+B. Conceptual model
+C. Process of software engineering
+D. Design principles
+
+E
+What are the activities of a simple interaction design?
+A. Identify needs/establish requirements
+B. (Re)Design
+C. Build an interactive version
+D. Evaluate
+E. All of the others
+
+A
+In which kind of data recording that disturbance to user is very low
+A. Audio plus camera
+B. Video
+C. None of the others
+D. Notes plus camera
+
+D
+O of GOMS is
+A. Octopus
+B. Organization
+C. Operation
+D. Operators
+
+C
+'At home with Bob' software is made by?
+A. IBM
+B. Intel
+C. Microsoft
+D. Google
+
+D
+Arrange the steps of theory action in the same order:
+1. Specify an action sequence
+2. Form an intention
+3. Establish a goal
+4. Interpret the state
+5. Perceive the system state
+6. Execute an action
+7. Evaluate the system state
+A. 3, 2, 1, 5, 6, 4, 7
+B. 1, 2, 3, 4, 5, 6, 7
+C. 3, 2, 1, 4, 5, 6, 7
+D. 3, 2, 1, 6, 5, 4, 7
+
+D
+Innovative physical designs including
+A. Roller wheels
+B. Up/down 'lips' on the face of phones
+C. Rocker dials
+D. All of the others
+
+B
+Menu offering lists of options that could be scrolled through and selected
+A. False
+B. True
+
+A
+Which is the forth activity of interaction design
+A. Evaluating designs
+B. Building interactive versions of the designs
+C. Identifying needs and establishing requirements
+D. Developing alternative designs
+
+A
+High-fidelity prototype uses materials expected in ...?
+A. Final product
+B. Rapid applications development
+C. Technique for collecting user opinions
+D. Personal information management
+
+D
+Choose the correct statement:
+A. Use cases describe human activities in a story.
+B. Scenarios explicitly describe the use of software or other technological support to achieve a task
+C. Use cases were developed to overcome the limitations of both scenarios and essential use cases.
+D. Essential use cases represent abstractions from scenarios and try to avoid the assumptions of an use case
+
+B
+Select incorrect guideline of data gathering for requirements
+A. Involve all the stakeholder groups
+B. Involve one representative from each stakeholder group
+C. Use a combination of data gathering techniques
+D. Focus on identifying the stakeholders' needs
+
+C
+Which of the following is Usability testing
+A. Results inform design
+B. Experimental design
+C. Scientific reported to scientific community
+D. Results validated statistically
+
+A
+One cannot design user experience, only design for user experience?
+A. Yes
+B. No
+
+B
+What is not wearables
+A. cycle indicators
+B. tour guides
+C. automatic diaries
+D. games
+
+C
+The sequence of links on a web site are generally best evaluated in ...
+A. University
+B. Office
+C. Laboratory
+D. Library
