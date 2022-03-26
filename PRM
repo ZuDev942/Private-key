@@ -1,0 +1,3223 @@
+Android UI is threadsafe
+
+A. True
+B. False
+B
+
+Note: B or A (% cao B)
+How many threads are there in AsyncTask in android?
+A. Only One
+B. Three
+C. AsyncTask doesn't have tread
+D. Two
+
+NOTE: D
+How to set data for a Gallery control?
+A. Define in XML file
+B. Use function setGalleryAdapter()
+C. Use function addView()
+D. b or c
+E. None of above
+
+b
+How to set data for a ListView?
+A. Define in XML file
+B. Use function setListAdapter()
+C. Use function addView()
+D. b or c
+E. None of above
+
+Is color a new HTML5 element of input type?
+
+A. No
+B. Yes
+b
+
+Android: When will onUpgrade() be invoked?
+
+A. Altering tables
+B. Dropping tables
+C. Create new tables
+D. All of above
+E. None of above
+d
+
+Parent class of Service?
+
+A. ContextThemeWrapper
+B. ContextWrapper
+C. Object
+D. Context
+b
+
+If the action is ACTION_CALL, what the data field would be?
+
+A. URI with the number to call
+B. URI of the document to be displayed for editing
+C. None of above
+a
+
+What is the difference between the getSharedPreferences() and getPreferences() method?
+
+A. The getSharedPreferences() method allows the data to be shared among all the activities in an application, whereas the getPreferences() method is accessible only to the activity the created it
+B. Both methods allows the data to be shared among all the activities in an application
+C. The getPreferences() method allows the data to be shared among all the activities in an application, whereas the getSharedPreferences() method is accessible only to the activity that created it
+D. Both methods are accessible only to the activity that created it
+a
+
+What is the purpose of the ImageSwitcher?
+
+A. The ImageSwitcher enables images to be displayed with animation
+B. The ImageSwitcher enables images to be displayed with description
+C. The ImageSwitcher enables images to be displayed with audio
+D. The ImageSwitcher enables images to be displayed with title
+a
+
+In HTML5, Which element is draggable?
+
+A. <canvas>
+B. <video>
+C. <audio>
+D. <img>
+E. None of above
+F. All of above
+f
+
+Intent Object structure is made of Component name, Action, Category, Extras ....?
+
+A. Data
+B. Data and Protocol
+C. Flags and Services
+D. Data and Flags
+E. Flags
+d
+
+Your Java source code is what is directly run on the Android device.
+
+A. No
+B. Yes
+a
+
+The R.java file is where you edit the resources for your project.
+
+A. Yes
+B. No
+b
+
+How to set position of a Toast?
+
+A. Call .setPosition() method
+B. Call .setLocation() method
+C. Call .setSizeAndLocation() method
+D. None of above
+d
+setGravity(int, int, int) method
+
+What is contained within the Layout xml file?
+
+A. The strings used in app
+B. Orientations and layouts that specify what the display looks like
+C. The permissions required by the app
+D. The code which is compiled to run the app
+b
+
+What are location provider in Android?
+
+A. GPS & Network
+B. GPS & Wifi
+C. 3G & Wifi
+D. 3G & Network
+a
+
+What is dp unit?
+
+A. The dp unit is density independent and 250dp is equivalent to one inch
+B. The dp unit corresponds to an actual pixel on screen
+C. The dp unti is density independent and 160dp is equivalent to one inch
+D. The dp unti is density independent and 90dp is equivalent to one inch
+c
+
+In HTML5, which of the following statement you need to use to create a new web socket to communicate?
+
+A. var Socket = new Websocket(url,[protocol]);
+B. var Socket = new WebSocket( );
+C. var Socket = new WebSocket(url,[protocol]);
+D. var Socket = new Websocket(protocol);
+c
+
+IntentFilters are typically defined via
+
+A. The AndroidManifest.xml file
+B. By code
+C. Both of above
+c
+
+Android: What is one difference between synchronous and asynchronous requests?
+
+A. We can call the same asynchronous request many times in one method, but we cannot with the case of synchronous
+B. Synchronous request doesn't need handler block (or call-back method) while asynchronous request needs
+C. Synchronous request is faster than asynchronous request
+b
+
+Is it valid if we perform asynchronous operation in the onReceive() method?
+
+A. No
+B. Yes
+A
+
+Android: Services run without a dedicated GUI, so they don't execute in the main thread of the application's process.
+
+A. True
+B. False
+b
+
+In Android, which statement is NOT correct about AsyncTask?
+
+A. The AsyncTask class defines an operation to be performed in the background
+B. The AsyncTask class provides event handlers you can use to monitor progress and post the results on the GUI thread.
+C. None of above.
+D. All of above.
+c
+
+Android is based on Linux for the following reason
+
+A. Security
+B. Portability
+C. Networking
+D. All of above
+d
+
+Android: Which statement is not correct about Toasts?
+
+A. Toasts are perfect for informing your users of event without forcing them to open an Activity
+B. Toasts don't steal focus and are non-modal
+C. Toasts provide an ideal mechanism for alerting users events occurring in background Services without interrupting foreground application.
+D. All of above
+E. None of above
+e
+
+Which is right code snipset to display Toast in Android?
+
+A. Toast.makeText(getBaseContext(),"hello",Toast.LENGTH_SHORT).show();
+B. Toast.makeText(app.getBaseContext(),"hello",Toast.LENGTH_SHORT).show();
+C. Toast.makeText("hello").show();
+D. Toast.makeText(getApplicationContext(),"hello",Toast.LENGTH_SHORT).show();
+d
+
+Which statements are correct about Category?
+
+A. A string containing additional information about the kind of component (activity, service, or broadcast receiver) that should handle the intent
+B. Android providers a set of predefined categories
+C. You can define your own categories
+D. All of above
+E. None of above
+d
+
+Android: Is it possible to cancel an asynchronous request after it has been sent?
+
+A. Yes, if it is not yet completed (success or fail)
+B. No
+C. None of above
+a
+
+A
+The application must declare all its component in Manifest file?
+A. True
+B. False
+
+D
+Android: which attribute will be used in XML if the Java code needs a reference to View?
+A. android: gravity
+B. android: background
+C. android: index
+D. android: id
+
+A
+Android: Which Layout adds each child View in a straight line, either vertically or horizontally and allows you to specify a "weight" for each child View that controls the relative size of each within the available space?
+A. LinearLayout
+B. RelativeLayout
+C. TableLayout
+D. AbsoluteLayout
+
+A
+The px unit corresponds to an actual pixcel on screen?
+A. True
+B. False
+
+C
+Which method is NOT a method of activity class?
+A. onCreate()
+B. onStart()
+C. onPlay()
+D. onResume()
+E. onDestroy()
+
+C
+Which is right xml-based way to load view layout
+A. setContentView(new XmlLayout())
+B. loadContentView(new LinearLayout())
+C. setContentView(R.layout.some_layout)
+D. loadContentView(R.layout.some_layout)
+
+D
+Name the three events you can override to save an activity's state
+A. onStop(), onSaveInstanceState(), and onRetainNonConfigurationInstance()
+B. onDestroy(), onSaveInstanceState(), and onRetainNonConfigurationInstance()
+C. onResume(), onSaveInstanceState(), and onRetainNonConfigurationInstance()
+D. onPause(), onSaveInstanceState(), and onRetainNonConfigurationInstance()
+
+C
+How do you specify the minimum version of Android required by your application?
+A. You specify the minimum Android version required using the minNdkVersion attribute in the AndroidManifest.xml file
+B. You specify the minimum Android version required using the minNumberVersion attribute in the AndroidManifest.xml file
+C. You specify the minimum Android version required using the minSdkVersion attribute in the AndroidManifest.xml file
+D. You specify the minimum Android version required using the minVersion attribute in the AndroidManifest.xml file
+
+B
+Android: Which class provides a general framework that allows you to save and retrieve persistent key-value pairs of primitive data types?
+A. File
+B. SharedPreference
+C. SQLiteOpenHelper
+D. BufferedWriter
+
+B
+There are five different methods to store persistent data. They are: Shared Preference, Internal Storage, External Storage, Network and ...?
+A. Core Data
+B. SQLite Database
+C. Web Service
+
+D
+How do we get access to the preference
+A. Via getPreference() method
+B. Via getSharedPreference() method
+C. Via getDefaultSharedPreference() method
+D. All of above
+
+B
+Which Android File API to create a file?
+A. openInputFile()
+B. openFileOutPut()
+C. getFile()
+
+C
+Which database is natively supported by android
+A. MSSQL
+B. MySQL
+C. SQLite
+D. Oracle
+
+C
+In Android, by default, SQLite database save data in
+A. Memory
+B. External Storage
+C. Internal Storage
+D. On the cloud
+
+A
+Android MapActivity is
+A. Base class with code to manage the boring necessities of any activity that display a MapView
+B. A View which display a Map (with data obtained from the Google Maps Service)
+C. A class to manage paining and zooming of a map
+D. An Overlay for drawing the user's current location (and accuracy) on the map, and/or a compass-rose inset.
+
+A
+Android: Is a dialog always created and displayed as a part of an Activity?
+A. Yes
+B. No
+
+c
+Which of the following(s) is/are the nicknames of version(s) of android?
+1)cupcake
+2) muffin
+3)honeycomb
+4)gingerbread
+
+a. 1,2,3
+b. 2,3,4
+c. 1,3,4
+d. 1,2,4
+
+T
+Does Android support the Bluetooth serial port profile?
+
+b
+Which company bought android?
+
+a. Android inc.
+b. Google
+c. Nokia
+d. Apple
+
+a
+Object in Android holds the contents of a message that is sent between modules
+
+a. Intent
+b. Content Provider
+c. Activity
+d. Service
+
+a
+What are the key components of Android Architecture?
+
+a. Linux Kernel, Libraries, Android Framework, Android Applications.
+b. Symbian Kernel, Libraries, Android Framework, Android Applications.
+c. IOS Kernel, Libraries, Android Framework, Android Applications.
+d. Windows Kernel, Libraries, Android Framework, Android Applications.
+
+T
+A project is compiled into a single .apk file.
+
+c
+Which is not a Android resource?
+
+a. xml
+b. menu
+c. image
+d. drawable
+
+c
+What is Android?
+
+a. Desktop Operating System
+b. Distributed Database
+c. Mobile Operating System
+d. Programming Language
+
+c
+What does the time often denote in Android product shots?
+
+Select one:
+a. The build number
+b. The release date
+c. The Android version number
+d. Nothing
+
+b
+What version of Android never came to phones?
+
+Select one:
+a. Froyo
+b. Honeycomb
+c. Gingerbread
+d. Eclair
+
+b
+Which chat protocol that Android 1.0 didn't support?
+
+Select one:
+a. Yahoo! Messenger
+b. Paltalk
+c. Windows Live Messenger
+d. Google Talk
+
+b
+How many way to share data across Android applications?
+
+Select one:
+a. Does not share data across Android applications
+b. Only one way to access data via Content Provider
+c. 3, Shared Preferences - File - SQLite
+d. 2, Local data and Network data
+
+b
+Before Google and Nestle teamed up to call Android 4.4 "KitKat," what was it referred to as internally?
+
+Select one:
+a. Kandy Korn
+b. Key Lime Pie
+c. Kaiser roll
+d. Kiwi
+
+b
+What is not Components of a Screen?
+
+Select one:
+a. Fragment
+b. Activity
+c. Layout
+d. View
+
+b
+Android uses:
+
+Select one:
+a. Java Virtual Machine.
+b. Dalvik Virtual Machine.
+c. Windows Virtual Machine.
+d. Oracle Virtual Machine.
+
+T
+Can an application be started on power up?
+
+a
+What is an Activity?
+
+Select one:
+a. A single screen in an application, with supporting Java code.
+b. A multiple screen in an application, with supporting Java code.
+c. A single screen in an application, with supporting C++ code.
+d. A multiple screen in an application, with supporting C++ code.
+
+b
+Which company developed Android?
+
+Select one:
+a. Google
+b. Android inc.
+c. Nokia
+d. Apple
+
+a
+What does AOSP stand for?
+
+Select one:
+a. Android Open Source Project
+b. Android Open System Plan
+c. Android Open Stack Programming
+d. Android Operating System Project
+
+F
+Android application can only be programmed in Java?
+
+b
+What year was Android founded?
+
+a. 2005
+b. 2003
+c. 2001
+d. 2008
+
+a
+Before its release, what device was known as the "Nexus Prime"?
+
+a. Galaxy Nexus
+b. Nexus S
+c. Nexus 10
+d. Nexus 4
+
+b
+What is the "brand" of the clock widget in Android 1.0?
+
+a. MIMO
+b. Malmo
+c. Clock
+d. Google Clock
+
+d
+What version of Android is codenamed "Jelly Bean"?
+
+a. Android 4.1
+b. Android 4.2
+c. Android 4.3
+d. All Of Above
+
+c
+Who developed the Android 2.1 gallery?
+
+a. Google
+b. The Astonishing Tribe
+c. Cooliris
+d. ATAP
+
+b
+What's the acronym for Android's future (post-Dalvik) runtime?
+
+a. Droid Run
+b. ART
+c. AR
+d. DART
+
+a
+What was the first Android version to ship with Google Now?
+
+a. 4.1
+b. 3.0
+c. 4.2
+d. 4.3
+
+c
+What was the first Android version to have turn-by-turn GPS navigation?
+
+a. Froyo
+b. Gingerbread
+c. Eclair
+d. Ice Cream Sandwich
+
+c
+What was Android's first packed-in music store?
+
+a. Napster
+b. Google Music
+c. MP3.com
+d. Amazon MP3
+
+e
+What chat protocols did Android 1.0 support?
+
+a. AIM
+b. Google Talk
+c. Windows Live
+d. Yahoo Messenger
+e. All Of Above
+
+a
+What company built the first Nexus device?
+
+a. HTC
+b. Google
+c. Motorola
+d. Foxconn
+
+b
+What movie inspired the design of Honeycomb?
+
+a. Star Trek
+b. Tron
+c. The Matrix
+d. Minority Report
+
+a
+Where did Andy Rubin work before founding Android Inc?
+
+a. Apple
+b. Microsoft
+c. Danger Inc.
+d. All Of Above
+
+b
+What was the first version to be updated with multitouch gestures like pinch zoom?
+
+a. 4.0
+b. 2.1
+c. 2.3
+d. 2.0
+
+a
+What is the name of Google's efforts to make Android run at 60FPS?
+
+a. Project Butter
+b. Project Roadrunner
+c. Project Speedy
+d. Project Swift
+
+b
+Who made the first Nexus tablet?
+
+a. HTC
+b. ASUS
+c. Google
+d. Samsung
+
+b
+What year was the first Google I/O held?
+
+a. 1998
+b. 2008
+c. 2005
+d. 2003
+
+a
+What method is used to send a broadcast event?
+
+Select one:
+a. sendBroadcast(intent);
+b. startBroadcast(intent);
+c. registerBroadcast(intent);
+d. sendBroadcastReceiver(intent);
+
+b
+What class do you have to inherit from to be a broadcast receiver?
+
+Select one:
+a. Broadcast
+b. BroadcastReceiver
+c. AbstractBroadcast
+d. Broadcaster
+
+a
+What are the inputs to the onReceive() method of a broadcast receiver?
+
+Select one:
+a. Context, Intent
+b. Activity, Intent
+c. Context, Bundle
+d. Context, Activity
+
+T
+To register a broadcast receiver use AndroidManifestxml file
+
+d
+What is broadcast receiver?
+
+Select one:
+a. Intercept the events from a user's interaction with your application
+b. The interactive components in your app's user interface
+c. Represents a behavior or a portion of user interface in an activity
+d. A component that does nothing but receive and react to broadcast announcements
+
+a
+Represents a behavior or a portion of user interface in an activity
+Select one:
+a. Fragment
+b. Activity
+c. Layout
+d. View
+
+b
+A component that does nothing but receive and react to broadcast announcements
+Select one:
+a. Broadcast
+b. BroadcastReceiver
+c. AbstractBroadcast
+d. Broadcaster
+
+a
+Intercept the events from a user's interaction with your application is ____
+a. Input Events
+b. Input controls
+c. Broadcast
+d. BroadcastReceiver
+
+b
+__________ are the interactive components in your app's user interface
+a. Input Events
+b. Input controls
+c. Broadcast
+d. BroadcastReceiver
+
+b
+What is a Fragment?
+
+Select one:
+a. A fragment is a part or portion of an activity
+b. All of these
+c. A fragment is modular in a sense that you can move around or combine with other fragments in a single activity
+d. Fragments are also reusable
+
+d
+If the user leaves a task for long time
+
+Select one:
+a. System clears an activity and retain state of all other activities
+b. System is independent of activities
+c. System will retain the tasks state until closed explicitly
+d. System will clear task of activities except root activity
+
+a
+What is not a service?
+
+Select one:
+a. Intercept the events from a user's interaction with your application
+b. Like an activity, it has lifecycle methods that you can implement to monitor changes in its state.
+c. It is a program that can run in the background for an indefinite period
+d. Service is another building block of android application it does not provide a UI
+
+d
+How do you declare 4 components (Activity, Service, BroadcastReceiver, ContentProvider) of android in mainfestfile?
+
+Select one:
+a. <activity>, <service>, <receiver>, <content>
+b. <activity>, <service>, <broadcastreceiver>, <contentprovider>
+c. <activity>, <service>, <broadcast>, <provider>
+d. <activity>, <service>, <receiver>, <provider>
+
+c
+In Android, the___ method of ___ class to return the full path to external storage.
+
+Select one:
+a. getExternalStorage(), Context
+b. getExternalStorageDirectory(), File
+c. getExternalStorageDirectory(), Environment
+d. getExternalStorage(), System
+
+e
+what is fundamental building blocks / components of Android ?
+
+a. Activities
+b. Services
+c. Broadcast Receivers
+d. Content Providers.
+e. all
+
+e
+what is Activtiy?
+a. Activity is the basic building block of every visible android application .
+b. Its provides the means to render a UI .
+c. Every screen in an application is an activity by itself .
+d. Though they work together to present an application sequence , each activity is an independent entity .
+e. All of these
+
+c
+Which one is not belong to service?
+a. Service is another building block of android application it does not provide a UI.
+b. Service is a program that can run in the background for an indefinite period
+c. Service is a another type of component that can receive and respond to any broadcast announcement..
+
+T
+Content Provider's are the only way to share data across Android applications. They store and retrieve data thus making it accessible to all. Android platform provides default implementations of content providers for data types like audio, video, images, contact information etc..
+
+T
+Intents are messages that are passed between components. Intent is a bundle of information, a passive data structure that holds an abstract description of the operation to be performed
+
+c
+Types of intent?
+
+a. Explicit Intent
+b. Implicit Intent
+c. all
+
+a
+_________is a block of resources, srbitrary information. It can be any file type.
+a. File
+b. Class
+c. Activity
+d. Fragment
+
+c
+________is the equivalent of a Frame/Window in GUI toolkits. It is not a file or a file type it is just a class that can be extended in Android for loading UI elements on view.
+a. File
+b. Class
+c. Activity
+d. Fragment
+
+b
+________ is complied from .java file. Android will use this .class file to produce the executable apk.
+a. File
+b. Class
+c. Activity
+d. Fragment
+
+a
+_________, you actually specify the activity that is required to respond to the intents.
+a. Explicit Intent
+b. Implicit Intent
+
+b
+................., you just declare an intent and leave it to the platform to find an activity that can respond to the intent.
+a. Explicit Intent
+b. Implicit Intent
+
+c
+Pending Intents can be created of three types except:
+a. getActivity(Context, int, Intent, int);
+b. getBroadcast(Context, int, Intent, int);
+c. getPendingIntent(Context, int, Intent, int);
+d .getService(Context, int, Intent, int);
+
+b
+_________________ are used to register activity, services, broadcast receiver as being capable of performing an action on a particular kind of actions.
+a. register
+b. Intents filter
+c. Intents
+
+f
+which ways data stored in android?
+a. Shared preferences
+b. Internal storage
+c. External storage
+d. Sqlite database
+e. Network connetion
+f. All of these
+
+a
+User interface types?
+a. Views, Notifications.
+b. Activity, Views.
+c. Activity, Notifications.
+d. Views, Fragment.
+
+a b c
+Types of notifications in android?
+a. Toast notification
+b. Status bar notification
+c. Dialog notification.
+
+b
+How do you find any view element into your program?
+a. Findviewbyname
+b. Findviewbyid
+c. Findviewbyclass
+d. Findviewbyelement
+
+a
+What is a resource?
+a. A user defined JSON, XML, bitmap, or other file, injected into the application build process, which can later be loaded from code.
+b. A user defined JSON, XML, bitmap, or other file, injected into the application build process, which can't later be loaded from code.
+
+T
+AAPT is short for Android Asset Packaging Tool
+
+T
+ANR is short for Application Not Responding.
+
+T
+AIDL is short for Android Interface Definition Language
+
+F
+ANR is short for Application Not Restart
+
+F
+AIDL is short for Android Is Development Language
+
+b
+Which is not an action?.
+a. A description of something that an Intent sender desires
+b. The Intent Sender desires something.
+c. The Intent Sender desires something or doing some tasks
+
+c
+What constant value is returned from onStartCommand() method or services that indicates the services being explicit started and stopped as needed?
+
+Select one:
+a. START_CONTINUATION_MASK
+b. START_REDELIVER_INTENT
+c. START_STICKY
+d. START_FLAG_RETRY
+
+b
+What constant value is returned from onStartCommand() method or services that indicates the services that should only remain running while processing any commands sent to them?
+
+Select one:
+a. START_CONTINUATION_MASK
+b. START_REDELIVER_INTENT
+c. START_STICKY
+d. START_FLAG_RETRY
+
+b
+___ class exposes methods to manage a SQLite database.
+
+Select one:
+a. SQLiteBuilder
+b. SQLiteDatabase
+c. SQLiteHelper
+d. SQLiteQuery
+
+a
+Which method to use show image for Intent?
+
+Select one:
+a. setType("image/pictures/*");
+b. setData("image/pictures/*");
+c. setAction("image/pictures/*");
+d. setImage("image/pictures/*");
+
+b
+To use an explicit intent, we need to know the ____ name of the activity/service.
+
+Select one:
+a. context
+b. class
+c. implicit
+d. explicit
+class
+
+d
+Activity results handled by the onActivityResult() method are differentiated from one another using which parameter?
+
+Select one:
+a. Result code
+b. Data
+c. Request code and result code
+d. Request code
+
+T
+Announcements are broadcast receivers
+
+b
+What are the four essential states of an activity?
+
+Select one:
+a. Active, Paused, Closed, Destroyed
+b. Active, Paused, Stopped, Destroyed
+c. Active, Paused, Slept, Destroyed
+d. Active, Slept, Stopped, Destroyed
+
+d
+What is a type of notification that is not supported in android?
+
+Select one:
+a. Dialog notification
+b. Toast notification
+c. Status bar notification
+d. Permission notification
+
+d
+What is fundamental building blocks / components of Android ?
+
+Select one:
+a. Activities, Services, Broadcast Readers, Content Providers
+b. Activities, Services, Broadcast Writers, Content Providers
+c. Activities, Services, Broadcast Senders, Content Providers
+d. Activities, Services, Broadcast Receivers, Content Providers
+
+b
+What are intent filters?
+
+Select one:
+a. Intents filter are a separate league of components that expose a specific sets of data to applications
+b. Intents filter are used to register activity, services, broadcast receiver as being capable of performing an action on a particular kind of actions
+c. All of these
+d. Intents filter are programs that can run in the background for an indefinite period
+
+T
+Content Providers are a separate league of components that expose a specific sets of data to applications
+
+b
+What is Content Provider?
+
+Select one:
+a. Content Providers are a separate league of components that expose a specific sets of data to applications
+b. All of these
+c. Content Providers store and retrieve data thus making it accessible to all
+d. Content Providers are the only way to share data across Android applications
+
+c
+How to get the form data in Sencha Touch?
+
+Select one:
+a. x-type.("control id").getValues();
+b. x-type.getValues();
+c. getFormInstance().getValues();
+d. getFormInstance("control id").getValues();
+
+d
+Using PhoneGap, how can you avoid performance issues when working with LocaleStorage?
+
+Select one:
+a. It's not possible at all.
+b. Using a custom JSON serializer.
+c. Storing any application data.
+d. Using a WebWorker to handle the data writing and reading operations.
+
+c
+This function should be implemented to safely initialize your application using the PhoneGap API after the app loads.?
+
+Select one:
+a. deviceReady()
+b. onLoad()
+c. onDeviceReady()
+d. ready()
+
+d
+This object is used to determine the type of network accessible to the app end-user?
+
+Select one:
+a. network
+b. net
+c. PhoneGap cannot determine the type of connection used
+d. connection
+
+a
+Working with event in Sencha Touch, which the following statement is false?
+
+Select one:
+a. Sencha Touch allows arbitrary definition of the parameters required in every one of the events exposed by the framework.
+b. The event triggers the execution of the corresponding function, which takes a certain number of parameters.
+c. To attach functions as event handlers, the only thing that is required is to specify a listeners configuration element to your user interface object.
+d. Sencha Touch allows developers to centralize business logic and event handlers in controller classes, inheriting from Ext.app.Controller.
+
+b
+Which of the following elements is no longer supported in HTML5?
+
+Select one:
+a. <q>
+b. <font>
+c. <ins>
+d. <menu>
+
+d
+Graphics defined by SVG is in which format?
+
+Select one:
+a. CSS
+b. HTML
+c. JSON
+d. XML
+
+a
+Which doctype is correct for HTML5?
+
+Select one:
+a. <!DOCTYPE html>
+b. <!DOCTYPE HTML5>
+c. <!DOCTYPE HTML5 PUBLIC "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+d. <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+
+d
+What is the difference between the Camera and Capture APIs?
+
+Select one:
+a. The Camera API is accepted.
+b. The Camera API is deprecated.
+c. The Capture API works only with PhoneGap 3.x.
+d. The Camera API can capture one media per time while the Capture can capture more than one.
+
+d
+Using Sencha Touch, which the following animation that you can't given the choice of?
+
+Select one:
+a. slide
+b. fade
+c. cube
+d. fly
+e.flip
+f.pop
+j.wipe
+
+d
+What is base of all Sencha Touch component?
+
+Select one:
+a. Ext.SenchaBase
+b. Ext.SenchaTouchBase
+c. Ext.Base
+d. Ext.Component
+
+c
+Using PhoneGap, how can you detect a change in the position of the device?
+
+Select one:
+a. Using a custom plugin.
+b. It's not possible at all.
+c. Using the PhoneGap API.
+d. Using a special-device plugin.
+
+c
+There are size limitations in PhoneGap when creating a database?
+
+Select one:
+a. No, unlimited!
+b. Yes, 5 MB.
+c. It depends on the target platform.
+d. Yes, 8 MB.
+
+c
+In Sencha Touch, profile is ...
+
+Select one:
+a. Class is implemented through the Ext.doc.Profile.
+b. Document will describe the data we are using.
+c. Object that contains display information for different types of devices.
+d. Sencha Touch documentation.
+
+d
+Android system uses intents to
+
+a) broadcast system intents
+b) broadcast custom intents
+c) To invoke other applications from your application.
+d) All of the above.
+
+b
+The plus(+) means in statement android:id="@+id/my_id"?
+
+a) Identify it as an id resource
+b) Create new id and add to resources
+c) XML parser should parse and expand id string
+d) Both a & b.
+
+c
+When you want system to run the service indefinitely, by restarting it when get killed, use
+
+a) START_NOT_STICKY
+b) START_REDELIVER_INTENT
+c) START_STICKY
+d) START_SERVICE_INDEFINITELY
+
+d
+Android supports which features
+
+a. Multitasking
+b. Bluetooth
+c. Video calling
+d. All of the above
+
+b
+Is android available in ROM?
+
+a. Yes
+b. No
+
+c
+Android doesn't support which format
+
+a. MP4
+b. MPEG
+c. AVI
+d. MIDI 5
+
+a
+What is mean by localization?
+
+a. Representing the products in different languages
+b. Representing the products in different region
+c. Representing the people in different languages
+d. Representing the products in different languages with different attribute
+
+b
+Which are the states in service life cycle?
+1)starting
+2)paused
+3)running
+4) destroyed
+5)wait
+6)yield
+
+a. 1,2,3,5
+b. 1,3,4
+c. 2,5,6
+d. None of these
+
+c
+Which of the following Dialog boxes are supported by Android?
+1)AlertDialog
+2)ProgressDialog
+3)DatePickerDialog
+4)TimePickerDialog
+
+a. 1 and 2
+b. 3 and 4
+c. All of the above
+d. None of these
+
+b
+What do you mean AIDL?
+
+a. Android interface data language
+b. Android interface definition language
+c. Application interface data language
+d. Application interface definition language
+
+c
+Which of the following file explains what the application consists of?
+
+a. Strings XML
+b. R file
+c. Manifest
+d. Layout file
+
+c
+Which of the following exception(s) is/are supported by android?
+1) InflateException
+2)Surface.OutOfResourceException
+3)SurfaceHolder.BadSurfaceTypeException
+4)WindowManager.BadTokenException
+
+a. 1 and 2
+b. 3 and 4
+c. All of above
+d. None of these
+
+c
+Typically MIME type will be
+
+a. Html
+b. Text
+c. Text/html
+d. Doc
+
+c
+ExpandableListView is used for
+
+a. Simplified tree representation
+b. Tree generation
+c. Tree creation
+d. Tree deletion
+
+a
+Which of the following(s) is/are the part of android native library?
+
+1) webkit
+2)opeGL
+3)SQLite
+4)openUX
+5)Dalvik
+
+a. 1,2,3
+b. 3,4,5
+c. All of above
+d. None of these
+
+c
+The......application is an email monitoring application
+
+a. Mail
+b. Buzz
+c. Mailbuzz
+d. Mailbox
+
+c
+Which of the following(s) is/are component of APK file?
+
+a. Resources
+b. Delvik Executable
+c. Both a and b
+d. None of above
+
+C
+What is APK?
+
+a. Application package kit
+b. Application package file
+c. Android package kit
+d. Android package file
+
+b
+What do you mean by BLOB?
+
+a. Bytes less object
+b. Binary large objects
+c. Binary low object
+d. Bit low object
+
+b
+The custom typeface of android is called.......
+
+a. Droid
+b. Norad
+c. Includes
+d. Tapas
+
+b
+The menu can be placed into alphabetic shortcut mode by calling......
+
+a. Setup()
+b. setQwertyMode()
+c. setContent()
+d. setIndicator()
+
+a
+If fragment and activity is running and activity is destroyed, what is the effect on the fragment?
+
+a. Fragment is destroyed
+b. Fragment runs as it is
+c. Fragment goes in idle state
+d. None of these
+
+c
+A single screen, the user sees on the device at one time, is known as.........
+
+a. Service
+b. Gui
+c. Activity
+d. Application
+
+a
+Which of the following services are provided by android operation system?
+1) lacation
+2)sensor reading
+3) wifi
+4)cloud computing
+
+a. 1,2,3 and more
+b. 2,3,4 and more
+c. All of above and more
+d. None of these
+
+a
+Is the bluetooth serial port profile supported by android?
+
+a. Yes
+b. No
+
+a
+Which of the following type(s) of notification is/are available in android?
+1) Toast notification
+2) status bar notification
+3) Dialog notification
+4) alert notification
+
+a. 1,2,3
+b. 2,3,4
+c. 1,3,4
+d. None of these
+
+b
+Does android support AWT and Swing?
+
+a. Yes
+b. No
+
+a
+The notificationManager is a...........
+
+a. System service
+b. User service
+c. Interactive service
+d. None of these
+
+a
+To update contents of content provider using cursor and commit you need to call....
+
+a. commitUpdates()
+b. update()
+c. commit()
+d. none of these
+
+a
+what is mean by AAPT
+
+a. Android asset packaging tool
+b. Application asset packaging tool
+c. Android application packaging tool
+d. None of these
+
+b
+In which package classes that help for network access in android are available?
+
+a. Java.net
+b. Android.net
+c. Android.nfc
+d. Android.mtp
+
+b
+No, it is not possible to run java source code directly on android because, android uses Davik Virtual Machine and not traditional JVM.
+Is it possible to run java source code directly on android?
+
+a. Yes
+b. No
+
+d
+Android:layout_alignParentTop property takes a simple........value
+
+a. Integer
+b. Character
+c. Float
+d. Boolean
+
+a
+To insert data into a content provider, you need to use.....
+
+1)insert()
+2)bulkInsert()
+3) getContentProvider()
+4) update()
+
+a. 1 and 2
+b. 3 and 4
+c. All of the above
+d. None of these
+
+c
+Which of the following are different storage methods available in android?
+
+1) shared preferences
+2) internal storage
+3) external storage
+4) sqlite databases
+5) network connection
+6) intermediate storage
+
+a. 1.2.3.4.6
+b. 2,3,4,5,6
+c. 1,2,3,4,5
+d. All of above
+c. 1,2,3,4,5
+
+d
+"assets/" holds
+
+a. Resources
+b. Java source code
+c. Application
+d. Static files
+
+b
+Which class contains constant in MTP and PTP specification
+
+a. MtpStorageInfo
+b. MtpConstants
+c. MtpDevide
+d. MtpObjectInfo
+
+a
+Which of the following scripts is used for building the application and installing it on the device?
+
+a. Build.xml
+b. androidManifest.xml
+c. manifest.xml
+d. android.xml
+
+b
+For building android application we need
+
+a. JDK
+b. SDK
+c. ADK
+d. MDK
+
+c
+For ........., code used by android is not a open source
+
+a. Device driver
+b. Video driver
+c. Wifi driver
+d. Bluetooth driver
+
+a
+For MIME Text/html document, encoding will be in.....
+
+a. UTF-8
+b. ASCIEE
+c. EBCDIC
+d. BCD
+
+c
+What is mean by ANR?
+
+a. Application not recognized
+b. Android not recognized
+c. Application not responding
+d. None of these
+
+a
+.In ......., sender specifies type of receiver
+
+a. Implicit intent
+b. Explicit intent
+c. A and b
+d. None of these
+
+c
+What do you mean by .dex?
+
+a. Dalvik expansion
+b. Dalvik extension
+c. Dalvik executables
+d. David expansion
+
+b
+If you are using tools that are not android-enabled, you can use the.......script,found in the tools/directory in your SDK installation
+
+a. Build.xml
+b. ActivityCreator.py
+c. Android.xml
+d. Manifest.xml
+
+b
+Which of the following file describes the application being built and what components -activities, services, etc. -are being supplied by that application?
+
+a. Build.xml
+b. androidManifest.xml
+c. manifest.xml
+d. android.xml
+
+b
+which compiler is used for compilation of android code?
+
+a. Mobile interpretive compiler
+b. Dex compiler
+c. AIC
+d. DIC
+
+a
+In pause state
+
+a. Activiy not in focus, but visible on screen
+b. Activiy not in focus, not visible on screen
+c. Activiy is focus also visible on screen
+d. Activiy is focus not visible on screen
+
+b
+........makes appropriate list of application data for the other applications
+
+a. Service provider
+b. Content provider
+c. Application provider
+d. Resource
+
+a
+In a PhoneGap app the deviceready event is fired when?
+
+Select one:
+a. After the load event.
+b. When the battery is fully charged.
+c. It's never fired.
+d. Before the load event.
+
+c
+This object is used to display native alert boxes and confirmation boxes as well as cause the device to beep or vibrate?
+
+Select one:
+a. alert
+b. inform
+c. notification
+d. communicate
+
+a
+Which statement is NOT correct about PhoneGap?
+
+Select one:
+a. It is close source framework to build mobile application
+b. It is open source framework to build mobile application
+c. It is an web-based mobile development framework
+d. It allows you to use standard web technologies such as HTML5, CSS3, and JavaScript for cross-platform development
+
+d
+What is the main advantage of using the module pattern in JavaScript?
+
+Select one:
+a. Encapsulation.
+b. Code executes faster.
+c. Manipulation.
+d. Hide unneeded complexities.
+
+c
+How do you handle retina displays in PhoneGap?
+
+Select one:
+a. None of the others.
+b. It's not possible at all.
+c. Using CSS sprites and creating a 2x image file.
+d. With the cordova-cli utility.
+
+c
+Which is the recommended Cordova-CLI command to run to emulate your app on a specific target platform?
+
+Select one:
+a. emulate
+b. serve
+c. ripple
+d. root
+
+b
+Sencha Touch is ...
+
+Select one:
+a. A "desktop-like" application across operating systems and browsers.
+b. An MVC JavaScript framework specially designed to create mobile web applications for touchscreen devices.
+c. An engine like WebKit browser engine.
+d. An mobile browser engine, such as Gecko, Presto, or Trident.
+
+d
+Which the following is Sencha Touch application architecture?
+
+Select one:
+a. Client - Server
+b. MVP
+c. MVVM
+d. MVC
+
+c
+Using a content provider, which of the following operations are able to perform?
+1) create
+2) read
+3)update
+4) delete
+
+a. 1,2,3
+b. 2,3,4
+c. All of the above
+d. None of these
+
+b
+If you try to access the column which does not exit, system throws
+
+a) NullPointerException
+b) illegalArgumentException
+c) ArrayIndexOutOfBoundsException
+d) SQLException
+illegalArgumentException
+
+d
+Maximum results returned by getFromLocationName() method can be
+
+a) 2
+b) 3
+c) 4
+d) 5
+
+a
+The methods startForeground() and stopForeground() were introduced in which API level.
+
+a) 2.0
+b) 3.0
+C) 1.5
+d) 2.2
+
+a
+Should always first check availability of audio effects by calling the following method on the corresponding audio effect class.
+
+a) ischeckable()
+b) isavailable()
+c) isvaluable ()
+d) iscaview()
+
+b
+Applications that require filtering based on screen size can use the attributes.
+
+a) <supportmultiple-screens>
+b) <supports-screens>
+c) <supportall-screens
+d) supportevery-screen
+
+b
+what is false with respect to onBind()
+a) is called when another component wants to bind with a service
+b) calling startService() results in a call to onBind()
+c) if you don't want to allow binding then return null
+d) if you want to allow binding then return Ibinder object
+
+a
+'Screen has turned off' is an example
+
+a) Normal broadcast
+b) Ordered broadcast
+c) background operation
+d) None
+
+b
+What is a funny fact about the start of Android? | Android
+
+A. It was orginaly going to be called UFO
+B. The first version of Android was released without an actual phone on the market
+C. Androids main purpose was to unlock your car door when you left the keys inside of it.
+D. Was going to be a closed source application to make more money for its company.
+
+B
+What part of the Android platform is open source? | Android
+
+A. low-level Linux modules
+B. all of these answers
+C. native libraries
+D. application framework
+E. complete applications
+
+D
+Which one is not a nickname of a version of Android? | Android
+
+A. cupcake
+B. Gingerbread
+C. Honeycomb
+D. Muffin
+
+a
+What operating system is used as the base of the Android stack? | Android
+
+A. Linux
+B. Windows
+C. Java
+D. XML
+
+a
+When you distribute your application commercially,you'll want to sign it with your own key. | Android
+
+A. True
+B. False
+
+b
+Android Applications must be signed. | Android
+
+A. After they are installed
+B. Before they are installed
+C. Never
+D. Within two weeks of installation
+
+a
+What is contained within the manifest xml file? | Android
+
+
+A. The permissions the app requires
+B. The list of strings used in the app
+C. The source code
+D. All other choices
+
+a
+The emulated device for android. | Android
+A. Runs the same code base as the actual device, all the way down to the machine layer.
+B. Is more of a simulator, and acts as a virtual machine for the Android device.
+C. Runs the same code base as the actual device, however at a higher level.
+D. An imaginary machine built on the hopes and dreams of baby elephants.
+
+d
+How is a simulator different from an emulator? | Android
+
+A. Emulators are only used to play old SNES games, simulators are used for software development
+B. The emulator is shipped with the Android SDK and third party simulators are not
+C. The emulator can virtualize sensors and other hardware features, while the simulator cannot
+D. The emulator imitates the machine executing the binary code, rather than simulating the behavior of the code at a higher level.
+
+a
+The R file is a(an) generated file | Android
+
+A. Automatically
+B. Manually
+C. Emulated
+D. None of the above
+
+b
+An activity can be thought of as corresponding to what? | Android
+
+A. A Java project
+B. A Java class
+C. A method call
+D. An object field
+
+b
+To create an emulator, you need an AVD. What does it stand for? | Android
+
+A. Android Virtual Display
+B. Android Virtual Device
+C. Active Virtual Device
+D. Application Virtual Display
+
+a
+The Android SDK ships with an emulator. | Android
+
+A. True
+B. False
+
+a
+What is the driving force behind an Android application and that ultimately gets converted into a Dalvik executable? | Android
+A. Java source code.
+B. R-file.
+C. the emulator.
+D. the SDK
+
+a
+Intents designate the target component by its name and they are typically used for application-internal messages
+
+a. Explicit Intents
+b. Implicit Intents
+
+c
+Which of the following is the parent class for the main application class in an Android application that has a user interface?
+
+a. MIDLet
+b. AndroidApp
+c. Activity
+d. AppLet
+e. Application
+
+e
+Which of the following would you have to include in your project to use the APIs and classes required to access the camera on the mobile device?
+
+a. import android.drivers;
+b. import android.hardware.camera;
+c. import android.camera;
+d. import android.util;
+e. import android.hardware;
+
+d
+What is "Android-dx"?
+
+a. A command line tool to create Android project files.
+b. A framework to create unit tests for Android projects.
+c. A resource editor to create user interface for Android applications.
+d. A tool to generate Android byte code from .class files.
+e. An emulator to execute and debug Android projects.
+
+b
+Which of the following are true about enabling/disabling menu items from an Activity class?
+
+a. onCreateOptionsMenu can be used to enable/disable some menu items in an Android application.
+b. onPrepareOptionsMenu can be used to enable/disable some menu items in an Android application.
+c. onShowOptionsMenu can be used to enable/disable some menu items in an Android application.
+d. The menu items in an Android application cannot be disabled.
+
+c
+Consider the following snippet of code:
+
+@Override
+protected void onStop
+{
+Super.onStop();
+SharedPreferences setting = getSharedPreferences("MyPrefs", 0);
+SharedPreferences.Editor editor = settings.edit();
+editor.putBoolean("MyBool", true);
+{some more code here}
+}
+Which of the following should be used at {some more code here}?
+
+a. editor.save();
+editor.close();
+b. editor.save();
+editor.finish();
+c. editor.commit();
+d. editor.save();
+e. editor.close();
+f. editor.finish();
+
+b
+Which of the following are true about the XML fragment above?
+
+a. It is taken from the manifest xml file of the Android project.
+b. It is taken from an XML file used to define a view.
+c. It is taken from the package file (.apk) of the Android project.
+d. The xmlns: attribute is a compulsory attribute.
+e. If this is not the outer most tag in the XML file then it need not contain the xmlns: attribute.
+f. MyElement should be the name of a class derived, directly or indirectly, from the View class.
+
+a c
+Which of the following are true?
+
+a. startActivity and startActivityForResult can both be used to start a new activity from your activity class.
+
+b. Only startActivityForResult can be used to launch a new activity from your activity class.
+
+c. startActivity(myIntent); and startActivityForResult(myIntent, -1); have the same result.
+
+d. When startActivity is used to launch a new activity from your activity class then your activity class gets notified when the new activity is completed.
+
+e. When startActivityForResult is used to launch a new activity from your activity class then your activity class gets notified when the new activity is completed.
+
+b
+Which of the following is/are appropriate for saving the state of an Android application?
+
+a. Activity.onFreeze()
+b. Activity.onPause()
+c. Activity.onStop()
+d. Activity.onDestroy()
+
+b
+Which of the following is NOT a life-cycle methods of an Activity?
+
+a. onCreate
+b. onInit
+c. onCompleteThaw
+d. onRestart
+
+a
+What is "Android-activityCreator"?
+
+a. A command line tool to create Android project files.
+b. A framework to create unit tests for Android projects.
+c. A resource editor to create user interface for Android applications.
+d. A tool to generate Android byte code from .class files.
+e. An emulator to execute and debug Android projects.
+
+a b
+Which of the following can you use to display a progress bar in an Android application?
+
+a. ProgressBar
+b. ProgressDialog
+c. ProgressItem
+
+c
+Which of the following is the immediate base class for Activity and Service classes?
+
+a. Application
+b. ApplicationContext
+c. Context
+d. Component
+e. Object
+
+e
+Which of the following can be used to handle commands from menu items in an Android application?
+
+a. commandAction
+b. onMenuItem
+c. onMenuItemSelected
+d. onMenuItemClicked
+e. onOptionsItemSelected
+
+c
+Which of the following can you use to display an HTML web page in an Android application?
+
+a. WebBrowser
+b. BrowserView
+c. WebView
+d. Browser
+e. HtmlView
+
+b e
+Which of the following are UI elements that you can use in a window in an Android application?
+
+a. TextBox
+b. TextView
+c. TextField
+d. TextElement
+e. EditText
+f. RichText
+
+b
+Intents do not name a target and the field for the component name is left blank
+
+A. Explicit Intents
+B. Implicit Intents
+
+c
+Which of the following should be used to save the unsaved data and release resources being used by an Android application?
+
+A. Activity.onStop()
+B. Activity.onPause()
+C. Activity.onDestroy()
+D .Activity.onShutdown()
+E.Activity.onFreeze()
+
+b
+How many type data integration in Sencha Touch?
+
+a.AJAX, JSON, YQL
+b.AJAX, JSONP, YQL
+c.AJAX, JSON, XML
+d.AJAX, JSONP, XML
+
+b
+Explain how to hide the column in grid panel?
+
+a. hide()
+b. hidden: true
+c. visible: false
+d. display: none
+
+a
+How to commit a record modification?
+
+a. newRecord.commit();
+b. Store.sync()
+c. All of the above
+d. None of Above
+
+c
+How to define a new Sencha Touch class?
+a. Using Ext.create()
+b. Using Ext.class()
+c. Using Ext.define()
+d. User Ext.application()
+
+b
+What is prefered method for creating class object?
+
+a. new className()
+b. Ext.create('className')
+c. className.create()
+d. Ext.define('className')
+
+a
+Which of the following is responsible for dynamic dependency loading?:
+
+a. Ext.requires
+b. Ext.uses
+c. Ext.class
+d. Ext.loader
+
+c
+Which is the root class of all class created with
+
+a. Ext.define
+b. Ext.class
+c. Ext.base
+d. Ext.super Ext
+
+d
+Which of the following components are state aware components?
+
+a. Grid
+b. Panel
+c. Window
+d. All of the above
+
+b
+Which of the following state provider is bundled with ExtJS 4?
+
+a. JSONProvider
+b. CookieProvider
+c. BrowserProvider
+d. SessionProvider
+
+c
+Which of the following encapsulates a client side cache of Model objects
+
+a. Proxy
+b. View
+c. Store
+d. Component
+
+d
+refs in a controller represents _____.:
+
+a. List of events handler
+b. Reference to the store
+c. Reference to other controller
+d. Reference to the UI components
+
+b
+Special type of component that can contain other components is called:
+
+a. Custom component
+b. Container
+c. Layout
+d. Grid
+
+c
+What is xtype?
+
+a. Type of layout
+b. Type of view
+c. Symbolic name of Ext components
+d. ExtJS data type
+
+a
+The View hierarchy has to be updated in the ______
+
+a. application's UI Thread
+b. application
+c. UI Thread
+d. None of Above
+
+c
+How do you obtain messages from handler?
+
+a. Handler.obtainMsg(), Msg.obtain()
+b. Handler.getMessage(), Message.get()
+c. Handler.obtainMessage(), Message.obtain()
+d.None of Above
+
+c
+If you are creating an application that must check for new email messages every 30 minutes, which one of the following Alarm types would you most likely use?
+
+a. RTC. RTC_WAKEUP
+b. ELAPSED_REALTIME
+c. ELAPSED_REALTIME_WAKEUP
+d. All of Above
+
+a
+Which of the following httpUrlConnection methods were used by the NetworkingURL application to interact with the earthquake data server?
+
+a. getInputStream(). close().
+b. openConnection(). try().
+c. Both A & B
+d. None of Above
+
+a
+What is the life cycle of services in android?
+
+A - onCreate()−>onStartCommand()−>onDestory()
+
+B - onCreate() -> onRecieve()−>onDestory()
+
+C - onCreate()−>onStartCommand()-> final()
+
+D - Service life cycle is same as activity life cycle.
+
+c
+How to kill an activity in Android?
+
+A - finish()
+
+B - finishActivity(int requestCode)
+
+C - A & B
+
+D - kill()
+
+E - None of the Above
+
+a
+What is the time limit of broadcast receiver in android?
+
+A - 10 sec
+
+B - 15 sec
+
+C - 5 sec
+
+D - 1 hour
+
+d
+Fragment in Android can be found through
+
+A - findByID()
+
+B - findFragmentByID()
+
+C - getContext.findFragmentByID()
+
+D - FragmentManager.findFragmentByID()
+
+d
+What are the functionalities in asyncTask in android?
+
+A - onPreExecution()
+
+B - doInBackground()
+
+C - onProgressUpdate()
+
+D - onPostExecution()
+
+D
+Android: Which statements are correct about Broadcast receivers?
+A. Broadcast receivers are Android's implementation of the Publish/Subscribe messaging pattern.
+B. Applications (known as publishers) can generate broadcasts to simply send events not knowing who, if anyone
+C. Receivers (known as subscribers) that want the information subscribe to specific messages via filters. If the me
+D. All of above
+E. None of above
+
+a
+Threads running in the same process share dynamically-allocated memory.
+
+a. True
+b. False
+
+b
+A device with Android installed is needed to develop apps for Android.
+
+a. True
+b. False
+
+a
+Google licensed some proprietary apps.
+
+a. True
+b. Fasle
+
+a
+Android doesn't make any assumptions about a device's screen size, resolution, or chipset.
+
+a. True
+b. False
+
+b
+Android is built upon the Java Micro Edition (J2ME) version of Java.
+
+a. True
+b. False
+
+a
+The AWT and Swing libraries have been removed from the Android library set.
+
+a. True
+b. False
+
+a
+The manifest explains what the application consists of and glues everything together.
+
+a. True
+b. False
+
+a
+The Android Software Development Kit (SDK) is all you need to develop applications for Android.
+
+a. True
+b. False
+
+b
+Can you deploy executable JARs on Android?
+
+a. True
+b. False
+
+b
+___________are the interactive components in your app's user
+interface:
+a. Content Providers
+b. Input controls
+c. Intents filter
+
+c
+___________are used to register activity, services,
+broadcast receiver as being capable of performing an
+action on a particular kind of actions
+a. Content Providers
+b. Input controls
+c. Intents filter
+
+a
+Before its release, what device was known as the "Nexus
+Prime"?
+A. Galaxy Nexus
+B. Nexus S
+C. Nexus 10
+D. Nexus 4
+
+b
+A component that does nothing but receive and react to
+broadcast announcements
+a. Content Providers
+b. broadcast receiver
+c. Intents filter
+
+a
+The Dalvik Debug Monitor Service (DDMS) is a key
+debugging utility that is integrated into the Eclipse, the
+favoured development environment for Android apps.
+Select one:
+A. True
+B. False
+
+c
+. ___ defined in the intent class that function as metadata for
+the intent.
+Select one:
+a. Category
+b. Data
+c. Flags
+d. Extras:
+
+b
+Does android make assumption about device screen size,
+resolution or chipset?
+a. Yes
+b. No
+
+c
+The Emulator is identical to running a real phone EXCEPT
+when emulating/simulating what? | Android
+A. Telephony
+B. Applications
+C. Sensors
+D. The emulator can emulate/simulate all aspects of a smart
+phone
+
+b
+Which of the following is NOT a client side proxy?
+A. LocalStorageProxy
+B. AjaxProxy
+C. SessionStorageProxy
+D. MemoryProxy:
+
+a
+How can I check if an activity is already running before
+starting it?
+A. NEW_TASK_LAUNCH in the startActivity() method call.
+B. FLAG_ACTIVITY_NEW_TASK in the startActivity() method
+call.
+C. FLAG_ACTIVITY_SINGLE_TOP in the startActivity()
+method call.
+D. By using <category
+android:name="android.intent.category.LAUNCHER" /> this
+category attribute
+
+b
+How does Google check for malicious software in the
+Android Market? | Android
+A. Every new app is scanned by a virus scanner
+B. Users report malicious software to Google
+C. Google employees verify each new app
+D. A seperate company monitors the Android Market for
+Google
+
+a
+How do you enable GPU-accelerated rendering in a
+PhoneGap-based app?
+Select one:
+a. Using the CSS rule -webkit-transform: translate3d(0, 0, 0).
+b. It's not possible at all.
+c. Using the CSS rule -webkit-transform: translate3d( 0, 0, 0);
+but it works only on iOS.
+d. transform: translate3d(0, 0, 0); to make it working on all platforms
+
+g
+How many ways data stored in android?:
+a Shared
+b preferences,
+c Internal storage,
+d External storage,
+e Sqlite database,
+f Network connetion
+g All of others
+
+b
+How Sencha Touch app can handle multiple screen
+resolution?
+Select one:
+a. Using XTemplate
+b. Using profile
+c. Automatic
+d. Detect by code
+
+Does HTML5 native support for local storage?
+
+A. Yes
+B. No
+A
+
+Do we need API key for displaying Google Maps in Android ?
+
+A. Yes
+B. No
+A
+
+Is the main thread called the UI thread?
+
+A. Yes
+B. No
+A
+
+B
+Intent my Intent = new Intent(this, ActivityTwo.class);
+myIntent.putExtra("Value1","This value one for ActivityTwo");
+myIntent.putExtra("Value2","This value two ActivityTwo");
+Which of following is true?
+A. myIntent is implicit Intent
+B. myIntent is explicit Intent
+C. myIntent is system Intent
+D. myIntent is class Intent
+
+D
+Which statement are correct about Category?
+A. A string containing addition information about the kind of component (activity, service, or broadcast receiver) that should handle the intent.
+B. Android provides a set of predefined categories.
+C. You can define your own categories.
+D. All of above.
+E. None of above.
+
+C
+When contentProvider would be activated?
+A. using Intent
+B. using SQLite
+C. using ContentResolver
+D. None of the above
+
+B
+In auto-generated code of an Android app, what is R class?
+A. Contains code for authentication and authorization the app.
+B. Contains IDs of the project resources.
+C. It is the main controller of the app.
+D. None of above
+
+D
+There are two statements:
+Statement A: You should use AsyncTask to do a long operation.
+Statement B: You should use Service to do a shorter operation.
+Which of them are correct?
+A. Statement A is True, and Statement B is True
+B. Statement A is True and Statement B is False
+C. Statement A is False, and Statement B is True
+D. Statement A is False and Statement B is False
+
+A
+What is the name of Android class do we need to use to build up an JSON object?
+A. JSONObject
+B. JSONHandler
+C. JSONReader
+D. JSONStreamReader
+
+An activity
+Represents a single screen with a user interface just like window or frame of Java.Android activity is the subclass of ContextThemeWrapper class.
+
+onCreate()
+This is the first callback and called when the activity is first created.
+
+onStart()
+This callback is called when the activity becomes visible to the user.
+
+onResume()
+This is called when the user starts interacting with the application.
+
+onPause()
+The paused activity does not receive user input and cannot execute any code and called when the current activity is being paused and the previous activity is being resumed.
+
+onStop()
+This callback is called when the activity is no longer visible.
+
+onDestroy()
+This callback is called before the activity is destroyed by the system.
+
+onRestart()
+This callback is called when the activity restarts after stopping it.
+
+A service is
+A component that runs in the background to perform long-running operations without needing to interact with the user and it works even if application is destroyed. A service can essentially take two states.
+
+Started
+A service is started when an application component, such as an activity, starts it by calling startService(). Once started, a service can run in the background indefinitely, even if the component that started it is destroyed.
+
+Bound
+A service is bound when an application component binds to it by calling bindService(). A bound service offers a client-server interface that allows components to interact with the service, send requests, get results, and even do so across processes with interprocess communication (IPC).
+
+onStartCommand()
+The system calls this method when another component, such as an activity, requests that the service be started, by calling startService(). If you implement this method, it is your responsibility to stop the service when its work is done, by calling stopSelf() or stopService() methods.
+
+onBind()
+The system calls this method when another component wants to bind with the service by calling bindService(). If you implement this method, you must provide an interface that clients use to communicate with the service, by returning an IBinder object. You must always implement this method, but if you don't want to allow binding, then you should return null.
+
+onUnbind()
+The system calls this method when all clients have disconnected from a particular interface published by the service.
+
+onRebind()
+The system calls this method when new clients have connected to the service, after it had previously been notified that all had disconnected in its onUnbind(Intent).
+
+onCreate()
+The system calls this method when the service is first created using onStartCommand() or onBind(). This call is required to perform one-time set-up.
+
+onDestroy()
+The system calls this method when the service is no longer used and is being destroyed. Your service should implement this to clean up any resources such as threads, registered listeners, receivers, etc.
+
+Application components are
+the essential building blocks of an Android application. These components are loosely coupled by the application manifest file AndroidManifest.xml that describes each component of the application and how they interact.
+
+Activities
+They dictate the UI and handle the user interaction to the smart phone screen.
+
+Services
+They handle background processing associated with an application.
+
+Broadcast Receivers
+They handle communication between Android OS and applications.
+
+Content Providers
+They handle data and database management issues.
+
+Activities represents
+A single screen with a user interface, in-short it performs actions on the screen.
+
+Services is
+A component that runs in the background to perform long-running operations.
+
+Broadcast Receivers simply respond to
+Broadcast messages from other applications or from the system.
+
+A broadcast receiver is
+Implemented as a subclass of BroadcastReceiver class and each message is broadcaster as an Intent object.
+
+A content provider component supplies
+Data from one application to others on request.
+
+Fragments
+Represents a portion of user interface in an Activity.
+
+Views
+UI elements that are drawn on-screen including buttons, lists forms etc.
+
+Layouts
+View hierarchies that control screen format and appearance of the views.
+
+Intents
+Messages wiring components together.
+
+Resources
+External elements, such as strings, constants and drawable pictures.
+
+Manifest
+Configuration file for the application.
+
+Android operating system is
+A stack of software components which is roughly divided into five sections and four main layers.
+
+Linux kernel
+At the bottom of the layers in architecture diagram of Android operating system. This provides a level of abstraction between the device hardware and it contains all the essential hardware drivers like camera, keypad, display etc. Also, the kernel handles all the things that Linux is really good at such as networking and a vast array of device drivers, which take the pain out of interfacing to peripheral hardware.
+
+Libraries
+On top of Linux kernel there is a set of libraries including open-source Web browser engine WebKit, well known library libc, SQLite database which is a useful repository for storage and sharing of application data, libraries to play and record audio and video, SSL libraries responsible for Internet security etc.
+
+Android Libraries
+This category encompasses those Java-based libraries that are specific to Android development. Examples of libraries in this category include the application framework libraries in addition to those that facilitate user interface building, graphics drawing and database access.
+
+android.app
+Provides access to the application model and is the cornerstone of all Android applications.
+
+android.content
+Facilitates content access, publishing and messaging between applications and application components.
+
+android.database
+Used to access data published by content providers and includes SQLite database management classes.
+
+android.opengl
+A Java interface to the OpenGL ES 3D graphics rendering API.
+
+android.os
+Provides applications with access to standard operating system services including messages, system services and inter-process communication.
+
+android.text
+Used to render and manipulate text on a device display.
+
+android.view
+The fundamental building blocks of application user interfaces.
+
+android.widget
+A rich collection of pre-built user interface components such as buttons, labels, list views, layout managers, radio buttons etc.
+
+android.webkit
+A set of classes intended to allow web-browsing capabilities to be built into applications.
+
+Android Runtime
+This is the third section of the architecture and available on the second layer from the bottom. This section provides a key component called Dalvik Virtual Machine which is a kind of Java Virtual Machine specially designed and optimized for Android. It also provides a set of core libraries which enable Android application developers to write Android applications using standard Java programming language.
+
+Application Framework
+The layer of architecture diagram of Android OS provides many higher-level services to applications in the form of Java classes. Application developers are allowed to make use of these services in their applications.
+
+Activity Manager
+Controls all aspects of the application lifecycle and activity stack.
+
+Content Providers
+Allows applications to publish and share data with other applications.
+
+Resource Manager
+Provides access to non-code embedded resources such as strings, color settings and user interface layouts.
+
+Notifications Manager
+Allows applications to display alerts and notifications to the user.
+
+View System
+An extensible set of views used to create application user interfaces.
+
+Applications
+You will write your application to be installed on this layer only.
+
+Java
+This contains the .java source files for your project. By default, it includes an MainActivity.java source file having an activity class that runs when your app is launched using the app icon.
+
+res/drawable-hdpi
+This is a directory for drawable objects that are designed for high-density screens.
+
+res/layout
+This is a directory for files that define your app's user interface.
+
+res/values
+This is a directory for other various XML files that contain a collection of resources, such as strings and colours definitions.
+
+AndroidManifest.xml
+This is the manifest file which describes the fundamental characteristics of the app and defines each of its components.
+
+Build.gradle
+This is an auto generated file which contains compileSdkVersion, buildToolsVersion, applicationId, minSdkVersion, targetSdkVersion, versionCode and versionName
+
+The Main Activity File
+This is the actual application file which ultimately gets converted to a Dalvik executable and runs your application.
+
+The Manifest File
+Whatever component you develop as a part of your application, you must declare all its components in this file which resides at the root of the application project directory.
+
+The Strings File
+Is located in the res/values folder and it contains all the text that your application uses. This file is responsible for their textual content.
+
+The Layout File
+Available in res/layout directory, that is referenced by your application when building its interface.
+
+anim/
+XML files that define property animations. They are saved in res/anim/ folder and accessed from the R.anim class.
+
+color/
+XML files that define a state list of colors. They are saved in res/color/ and accessed from the R.color class.
+
+drawable/
+Image files like .png, .jpg, .gif or XML files that are compiled into bitmaps, state lists, shapes, animation drawable. They are saved in res/drawable/ and accessed from the R.drawable class.
+
+layout/
+XML files that define a user interface layout. They are saved in res/layout/ and accessed from the R.layout class.
+
+menu/
+XML files that define application menus, such as an Options Menu, Context Menu, or Sub Menu. They are saved in res/menu/ and accessed from the R.menu class.
+
+raw/
+Arbitrary files to save in their raw form. You need to call Resources.openRawResource() with the resource ID, which is R.raw.filename to open such raw files.
+
+values/
+XML files that contain simple values, such as strings, integers, and colors.
+
+xml/
+Arbitrary XML files that can be read at runtime by calling Resources.getXML(). You can save various configuration files here which will be used at run time.
+
+<resources_name>-<config_qualifier>
+drawable-hdpi , layout-ar
+
+Accessing Resources in Code
+When your Android application is compiled, a R class gets generated, which contains resource IDs for all the resources available in your res/ directory. You can use R class to access that resource using sub-directory and resource name or directly resource ID.
+
+D
+On Android SQLite: Where can we define tables, columns, views, triggers?
+A. onUpgrade()
+B. onInit()
+C. onStart()
+D. onCreate()
+
+onCreate()
+Where we can create tables and columns to them, create views or triggers?
+
+2D Drawing
+The <canvas> element in HTML5 is used for
+
+CATEGORY_ BROWSABLE
+The target activity can be safely invoked by the browser to display data referenced by a link — for example, an image or an e-mail message.
+
+myIntent is implicit Intent
+Intent mylntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.google.com")); startActivity(mylntent);
+Which of following is true?
+
+LinearLayout
+Android: Which Layout adds each child View in a straight line, either vertically or horizontally and allows you to specify a "weight" for each child View that controls the relative size of each within the available space?
+
+None of above
+Android: Which statement does not correct about Activity?
+
+Action Test. Category Test. Data Test
+There are 3 tests conducted in order to match an intent with intent filters
+
+Via AndroidManifestxml file
+How to register a broadcast receiver?
+
+HttpURLConnection
+In Android, which class is used to makes http connection
+
+Services
+Which one of four main components of an Android application that is corresponding with the following description: " They handle background processing associated with an application "
+
+finish()
+You can shut down an activity by calling
+
+none
+câu nào sau đây k đúng về viewflipper
+
+None of above
+What is NOT a new elements of input type in HTML5
+
+False (tuy nó không gắn với UI nhưng nó vẫn được exe trong main thread)
+Android: Services run without a dedicated GUI, so they don't execute in the main thread of the application's process
+
+toast visible while user click ok button ??
+câu nào sau đây k đúng về toasts
+
+mày nghĩ sao?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+answer: no!
+Is it valid if we perform asynchronous operation in the onReceive() method?
+
+<command>
+cái gì defines a command button that a user can invoke
+
+INTERNET
+muốn dùng MapActivity thì phải có quyền ...
+
+câu dài nhất mà quất
+What is the android:versionCode attribute in the AndroidManifest.xml file
+
+Use function setListAdapter()
+How to set data for a ListView?
+
+All of above
+Android: When will onUpgrade() be invoked
+
+JavaScript Object Notation
+JSON là gì
+
+SQLiteOpenHelper
+cái helper của sqlite là gì
+
+đúng hết, đéo nói nhiều :)
+Statement A: Using Shared Preferences, you can store private primitive data only.
+Statement B: Using External Storage option, you can store public data on the shared external storage.
+
+External storage (bộ nhớ ngoài)
+SDCard là?
+
+SQLite Database
+There are five different methods to store persistent data. They are: Shared Preference, Internal Storage, External Storage, Network and ...?
+
+cho phép image hiển thị có animation
+ImageSwitcher để làm gì?
+
+ContextThemeWrapper
+bố của Activity
+
+LocationManager
+Which class do we use for listening location update
+
+Dalvik
+built-in jvm của android là gì
+
+CursorFragment => không có cái này
+not related to fragment
+
+Data and Flags
+Intent Object structure is made of Component name, Action, Category, Extras ... ?
+
+Activity.onPause()
+Which of the following is/are appropriate for saving the state of an Android application
+
+JSONObject
+What is the name of Android class do we need to use to build up an JSON object
+
+FALSE
+vì implicit intent thì không cần set name
+intent's component name must be set
+
+ACCESS_FINE_LOCATION
+In Android, which manifest permission is needed when use GPS location
+
+Check if typeof(Storage) !== "undefined"
+How to check if browser supports web storage
+
+All nha
+Which statements are correct about Category?
+
+đáp án nào có chữ only là phang
+cái câu nào sau đây không đúng về xtype
+
+It is never expired
+What is TRUE about localStorage
+
+Thành thạo (66)
+Bạn đã trả lời đúng các thuật ngữ này!	
+Chọn 66
+D
+What are the Direct subclasses of Activity?
+A. ListActivity
+B. ActivityGroup
+C. FragmentActivity
+D. All of the above
+
+D
+How many main approaches to build GUI of Android app?
+A. >=5
+B. 2
+C. 1
+D. 3
+E. 4
+
+D
+What is android view group?
+A. Layouts
+B. Base class of building blocks
+C. FragmentActivity
+D. Collection of views and other child views
+
+A
+Android: What is value on component's attribute "layout_width" and "layout_height" to display the component big enough to enclose its content only?
+A. wrap_content
+B. fiIl_parent
+C. match_parent
+D. None of above
+
+D
+In Android, which class is used to makes http connection
+A. Connection
+B. TCPClient
+C. HttpConnection
+D. HttpURLConnection
+
+D
+What is Toast class?
+A. The Toast class is used to display notifications on the device's status bar
+B. The Toast class is used to display notifications on the device's status bar and disappears after a few seconds
+C. The Toast class is used to display alerts to the user and disappears when user click on OK button
+D. The Toast class is used to display alerts to the user and disappears after a few seconds
+
+C
+How to call an AJAX request in Sencha Touch?
+A. Use Ext.Ajax()
+B. Use Ext.Ajax.call()
+C. Use Ext.Ajax.request()
+D. None of above
+
+B
+Why is the AbsoluteLayout not recommended for use?
+A. using the AbsoluteLayout makes it facility for your application to have a consistent look and feel across devices
+B. using the AbsoluteLayout makes it difficult for your application to have a consistent look and feel across devices
+C. using the AbsoluteLayout makes it easy for your application to have a consistent look and feel across devices
+D. using the AbsoluteLayout makes it quick for your application to have a consistent look and feel across devices
+
+D
+What is not true about the Android application lifecycle
+A. Each application runs in its own process.
+B. Processes are started and stopped as needed to run apps components.
+C. Processes may be killed to reclaim needed resources
+D. Each activity of an application runs in its own process
+
+C
+How to instantiate a Spinner control?
+A. Via XML layout
+B. Via code
+C. All of above
+D. None of above
+
+C
+Name the permissions you need to declare in your AndroidManifest.xml file for sending and receiving SMS message
+A. The two permissions are SEND_PERMISSION and RECEIVE_PERMISSION
+B. The two permissions are SEND_MESSAGE and RECEIVE_MESSAGE
+C. The two permissions are SEND_SMS and RECEIVE_SMS
+D. The two permissions are SEND and RECEIVE
+
+B
+Android: Before the dialog is displayed, which callback methods will Android call?
+A. onlnitDialog(int)
+B. onPrepareDialog(int, Dialog)
+C. onShowDialog(int)
+D. onCreateDialog(int)
+
+A
+Three main approaches to build GUI of Android app are Java-base, XML-base and ...?
+A. Hybrid
+B. JSON-base
+C. Eclipse
+D. HTML5-base
+
+A
+What is the method for monitoring a location?
+A. The method is addProximityAlert().
+B. The method is addProximityNotify().
+C. The method is addProximityLocation().
+D. The method is addProximitylnformation().
+
+A
+Is TextView read-only by default?
+A. True
+B. False
+
+B
+Which one of four main components of an Android application that is corresponding with the following description: " They handle background processing associated with an application "
+A. Activities (They dictate the UI and handle the user interaction to the smart phone screen.)
+B. Services (They handle background processing associated with an application.)
+C. Content Providers (They handle data and database management issues.)
+D. Broadcast Receivers (They handle communication between Android OS and applications.)
+
+D
+What is NOT correct about HTML5?
+A. All browsers support for all new elements of HTML5
+B. HTML5 helps to reduce the need of browser plugin
+C. HTML5 should be device independent
+D. None of above
+
+D
+Android is licensed under which open source licensing license?
+A. OSS
+B. Gnu's GPL
+C. Sourceforge
+D. Apache/MIT
+
+D
+What is NOT correct about Ext.Viewport in Sencha Touch?
+A. Need declare in app.js
+B. Extend from Ext.Container
+C. Can add items to it at any time, from anywhere in code
+D. Can activate item by Viewport.setActiveltem();
+
+C
+Which is Not a rule for Android single thread model?
+A. Do not block the UI thread
+B. Do not access the Android UI toolkit from outside the UI thread
+C. Do manipulation of the UI from both UI thread and Worker thread to increase performance
+
+D
+Which of the following item(s) is/ are a correct layout in Android?
+A. Frame Layout
+B. Linear Layout
+C. Relative Layout
+D. All of the above
+
+C
+What is NotificationManager class?
+A. The NotificationManager class is used to display notifications on the device's status bar and disappears after a few seconds
+B. The NotificationManager class is used to display alerts to the user and disappears when user click on OK button
+C. The NotificationManager class is used to display notifications on the device's status bar
+D. The NotificationManager class is used to display alerts to the user and disappears after a few seconds
+
+D
+Which statement is NOT correct about Google Map Overlay?
+A. To enable compass, you call .enableCompass() function of MyLocationOverlay instance
+B. You need to extend ItemizedOverlay class to customize marker
+C. MyLocationOverlay class can be used to create overlay that shows your location
+D. Overlay is added to map automatically after instancing it
+
+B
+On android, a layout can contain other layout?
+A. False
+B. True
+
+A
+In HTML5, what is TRUE about localStorage?
+A. It is never expired
+B. It is faster than sessionStorage
+C. It is only available in one session
+
+B
+How do you register a content provider in your AndroidManifest.xml file?
+A. <provider android:name="ProductsProvider" android:package="fu.android.provider.Products" I>
+B. <provider android:name="ProductsProvider" android:authorities="fu.android.provider.Products" />
+C. <provider android:name="ProductsProvider" android:class="fu.android.provider.Products" />
+D. <provider android:name="ProductsProvider" android:path="fu.android.provider.Products" />
+
+D
+Intent mylntent = new Intent(this, ActivityTwo.class);
+myIntent.putExtra("Valuel", "This value one for ActivityTwo ");
+mylntent.putExtra("Value2", "This value two ActivityTwo");
+Which of following is true?
+A. mylntent is class Intent
+B. mylntent is implicit Intent
+C. mylntent is system Intent
+D. mylntent is explicit Intent
+
+A
+What is TRUE about sessionStorage?
+A. It is available in only one session
+B. It is slower than localStorage
+C. It is never expired
+
+A
+Four main components of an Android application are: Activities, Services, Broadcast Receivers and.....
+A. Content Providers
+B. Fragments Intents
+C. Intents
+D. SQLite databases
+
+A
+Given the following JSON content:
+{"parent":[
+{"child":"Peter"}
+]}
+Assume that content of "parent" is stored in reader variable, and inside it has a child object named "child". Which of the following statement we need to you to get this child object?
+A. JSONObject childObj = reader.getJSONObject("child");
+B. JSONObject childObj = parent.getJSONObject("child");
+C. JSONObject childObj = (JSONObject) parent.getJSON("child");
+D. JSONObiect childObi = (JSONObiect) reader.getJSON("child"):
+
+B
+Does Sencha Touch provide access to the native Compass API when running on a device?
+A. No
+B. Yes
+
+C
+How to add a scroll view?
+A. Use tag <ScrollView...
+B. Use code:
+ScrollView sv = new ScrollView();
+setContentView(sv);
+C. All of above
+
+B
+Intent mylntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.google.com")); startActivity(mylntent);
+Which of following is true?
+A. mylntent is class Intent
+B. mylntent is implicit Intent
+C. mylntent is system Intent
+D. mylntent is explicit Intent
+
+A
+Which of the following used to detect when a user clicks or taps on a button?
+A. OnClickListener
+B. OnClickButton
+C. OnClickDetector
+D. OnPressListener
+
+B
+There are two statements:
+Statement A: Using Shared Preferences, you can store private primitive data only.
+Statement B: Using External Storage option, you can store public data on the shared external storage.
+Which of them are correct?
+A. Statement A is False, and Statement B is False
+B. Statement A is True, and Statement B is True
+C. Statement A is True, and Statement B is False
+D. Statement A is False, and Statement B is True
+
+A
+How to display a Toast?
+A. Call .show() method
+B. Call .getText() method
+C. Call .display() method
+D. None of above
+
+C
+Android is based on which language?
+A. C++
+B. PHP
+C. Java
+D. Objective C
+
+B
+What will happen if you have two or more activities with the same intent filter action name?
+A. The Android OS will choose second activity.
+B. The Android OS will display a dialog from which users can choose which activity they want to use.
+C. The Android OS will display an error
+D. The Android OS will choose first activity
+
+A
+What is the geocoding?
+A. Geocoding is the act of converting an address into its coordinates (latitude and longitude).
+B. Geocoding is the act of compress an address.
+C. Geocoding converts a pair of location coordinates into an address
+D. Geocoding is the act of encoding an address.
+
+A
+Does CSS support to detecting device size and orientation?
+A. Yes
+B. No
+
+B
+Do we need to register all of View classes in app.js with Sencha Touch?
+A. Yes
+B. No
+
+E
+Android: How to calling Sub-Activities for result data?
+A. Use the startActivityForResult() method to start Activity, called a Sub-Activity.
+B. In the Sub-Activity class, call setResult(), finish() methods to return the result to the Parent Activity
+C. In the parent activity, the returned data is done by protected void onActivityResult
+D. All of above
+E. None of above
+
+C
+Which of the following is appropriate for saving the state of an Android application?
+A. Activity.onDestroy()
+B. Activity.onStop()
+C. Activity.onPause()
+D. Activity.onFreeze()
+
+A
+Name the method that enables you to obtain the path of the external storage of an Android device
+A. The method name is getExternalStorageDirectory()
+B. The method name is getPathExternalStorageDirectory()
+C. The method name is getExternalStorageFile()
+D. The method name is getExternalStoragePath()
+
+B
+Do we need to declare all of Controller in app.js with Sencha Touch?
+A. No
+B. Yes
+
+A
+The first step when working with SQLite is to create a class that inherits from a helper class, what is it?
+A. SQLiteOpenHelper class
+B. SQLiteHelper class
+C. SQLiteDatabaseHelper class
+D. SQLiteDatabase class
+
+B
+How to create a Sencha Touch app?
+A. Use Sencha SDK Guide: File New Project
+B. Use command line: sencha generate app
+C. Download app skeleton from Sencha Touch website
+D. None of above
+
+B
+Android: Is the main thread called the UI thread?
+A. No
+B. Yes
+
+E
+Which statements are NOT correct about Intent Filters?
+A. Filters informs the system which implicit intents a component can handle
+B. If a component does not have any intent filters, it can receive only explicit intents
+C. A component with filters can receive both explicit and implicit intents
+D. All of above
+E. None of above
+
+B
+In Sencha Touch, which of the following folder contains the Models, Views, Controllers, and Stores for your app
+A. resource
+B. app
+C. src
+
+C
+How does Android system manage activity's life cycle
+A. Manually by the user
+B. Via system GC
+C. Via system activity stack
+D. None of above
+
+E
+Which statement is NOT correct about Intents Action?
+A. The Intent class defines a number of pre-defined action constants
+B. We can also define your own action strings for activating the components in your application
+C. It is a string naming the action to be performed
+D. All of above
+E. None of above
+
+A
+"Gingerbread" is nickname of
+A. Android version 2.3.x
+B. Android version 4.x
+C. Android version 2.2
+D. Android version 3.x
+
+How to make a TextView to be editable?
+
+A. It is editable by default
+B. Either set its attribute editable ='true' or Use EditText class instead of TextView class
+C. None of above
+b
+
+The application must declare all its components in Manifest file?
+
+A. False
+B. True
+b
+
+How do you access the string resource stored in the strings.xml file?
+
+A. You can use the getStringResource() method.
+B. You can use the getString()method.
+C. You can use the getResource() method.
+D. You can use the getResources() method.
+d
+
+Which statement is NOT correct about external storage?
+
+A. To write to the external storage system your application needs the android.permission.WRITE_EXTERNAL_STORAGE permission
+B. All files and directories on the external storage system are readable for all Android application
+C. To get the path to external storage system, use Environment.getExternalStorage() method.
+c
+
+In Android, normally SDCard is belong to ______
+
+A. Internal storage
+B. External storage
+C. Shared preference
+D. None of above
+b
+
+Which dialog box can you use in Android application?
+
+A. AlertDialog
+B. ConfirmDialog
+C. WarningDialog
+D. PromptDialog
+a
+
+How to select an HTML element by id to apply stylesheet format?
+
+A. @id
+B. $id
+C. &id
+D. #id
+d
+
+Data type integrity is not maintained in SQLite, you can put a value of certain data type in a column of another datatype (put string in an integer and vice versa)?
+
+A. True
+B. False
+a
+
+Which class do we use for listening location update ?
+
+A. LocationChange class
+B. LocationUpdate class
+C. LocationManager class
+D. LocationListener class
+c
+
+How to set layout's attribute programmatically in android?
+
+A. Use Params class
+B. Use LayoutAttribute class
+C. Use LayoutParams class
+D. All of above
+c
+
+Which of the following are true about Intent.CALL_ACTION?
+
+A. Used to send a message
+B. Used when a phone number is to be dialled without showing a UI on the device
+C. Intent.action == Intent.CALL_ACTION is true when a phone call is received on the device
+D. Used to dial a phone number on the device
+b
+
+In Android, which manifest permission is needed when use GPS location
+
+A. <uses-permission android:name="android.pemission.ACCESS_GPS_LOCATION"/>
+B. <uses-permission android:name="android.pemission.ACCESS_COARSE_LOCATION"/>
+C. <uses-permission android:name="android.pemission.ACCESS_FINE_LOCATION"/>
+D. <uses-permission android:name="android.pemission.ACCESS_LOCATION"/>
+c
+
+C
+When ContentProvider would be actived?
+A. Using Intent
+B. Using SQLite
+C. Using ContentResolver
+D. None of the above
